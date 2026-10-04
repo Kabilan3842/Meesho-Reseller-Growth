@@ -1,0 +1,25 @@
+reseller_id,reseller_name,city,region,join_date
+R001,Reseller 1,Delhi,North,2026-01-15
+R002,Reseller 2,Jaipur,North,2026-01-04
+R003,Reseller 3,Lucknow,North,2026-02-05
+R004,Reseller 4,Delhi,North,2026-02-01
+R005,Reseller 5,Jaipur,North,2026-01-29
+R006,Reseller 6,Lucknow,North,2026-01-18
+R007,Reseller 7,Bengaluru,South,2026-01-14
+R008,Reseller 8,Chennai,South,2026-03-11
+R009,Reseller 9,Hyderabad,South,2026-01-12
+R010,Reseller 10,Bengaluru,South,2026-03-17
+R011,Reseller 11,Chennai,South,2026-02-24
+R012,Reseller 12,Hyderabad,South,2026-01-05
+R013,Reseller 13,Kolkata,East,2026-01-04
+R014,Reseller 14,Patna,East,2026-01-12
+R015,Reseller 15,Bhubaneswar,East,2026-01-28
+R016,Reseller 16,Kolkata,East,2026-01-30
+R017,Reseller 17,Patna,East,2026-03-06
+R018,Reseller 18,Bhubaneswar,East,2026-03-19
+R019,Reseller 19,Mumbai,West,2026-01-04
+R020,Reseller 20,Pune,West,2026-03-13
+R021,Reseller 21,Ahmedabad,West,2026-01-26
+R022,Reseller 22,Mumbai,West,2026-03-11
+R023,Reseller 23,Pune,West,2026-02-23
+R024,Reseller 24,Ahmedabad,West,2026-01-29

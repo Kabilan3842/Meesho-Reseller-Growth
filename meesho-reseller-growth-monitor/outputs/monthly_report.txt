@@ -1,0 +1,68 @@
+MEESHO RESELLER GROWTH & ALERT REPORT
+Monitoring period: April-June 2026
+Total alerts: 13
+Category alerts: 7
+Regional alerts: 5
+Inactive reseller alerts: 1
+
+May Category Update
+
+Ethnic Wear increased by 42.23% in May,
+with GMV increasing by ₹92,270 compared with April.
+GMV moved from ₹218,497 to ₹310,767. Severity: HIGH.
+
+Home & Kitchen declined by 18.84% in May,
+with GMV decreasing by ₹36,275 compared with April.
+GMV moved from ₹192,515 to ₹156,240. Severity: NORMAL.
+
+June Category Update
+
+Beauty & Personal Care increased by 42.65% in June,
+with GMV increasing by ₹46,509 compared with May.
+GMV moved from ₹109,054 to ₹155,563. Severity: NORMAL.
+
+Ethnic Wear declined by 46.68% in June,
+with GMV decreasing by ₹145,052 compared with May.
+GMV moved from ₹310,767 to ₹165,715. Severity: HIGH.
+
+Home & Kitchen increased by 96.31% in June,
+with GMV increasing by ₹150,471 compared with May.
+GMV moved from ₹156,240 to ₹306,711. Severity: HIGH.
+
+Kids Wear increased by 33.47% in June,
+with GMV increasing by ₹39,323 compared with May.
+GMV moved from ₹117,500 to ₹156,823. Severity: NORMAL.
+
+Western Wear declined by 15.04% in June,
+with GMV decreasing by ₹32,489 compared with May.
+GMV moved from ₹215,994 to ₹183,505. Severity: NORMAL.
+
+May Regional Update
+
+East region increased by 24.72% in May,
+with GMV increasing by ₹49,900 compared with April.
+GMV moved from ₹201,839 to ₹251,739. Severity: NORMAL.
+
+North region increased by 41.19% in May,
+with GMV increasing by ₹69,928 compared with April.
+GMV moved from ₹169,759 to ₹239,687. Severity: HIGH.
+
+South region declined by 21.07% in May,
+with GMV decreasing by ₹57,702 compared with April.
+GMV moved from ₹273,875 to ₹216,173. Severity: NORMAL.
+
+June Regional Update
+
+South region increased by 17.11% in June,
+with GMV increasing by ₹36,990 compared with May.
+GMV moved from ₹216,173 to ₹253,163. Severity: NORMAL.
+
+West region declined by 15.58% in June,
+with GMV decreasing by ₹31,455 compared with May.
+GMV moved from ₹201,956 to ₹170,501. Severity: NORMAL.
+
+Inactive Reseller
+
+Reseller R024 (Reseller 24) in Ahmedabad (West) had no delivered orders
+during the monitoring period.
+Delivered orders: 0, GMV: ₹0. Severity: NORMAL.

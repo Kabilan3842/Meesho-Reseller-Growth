@@ -1,0 +1,901 @@
+order_id,reseller_id,category,product_name,quantity,unit_price,order_date,month,status
+O0001,R015,Kids Wear,Kids T-Shirt,2,1729,2026-04-14,April,Delivered
+O0002,R005,Western Wear,Crop Top,1,689,2026-04-13,April,Delivered
+O0003,R012,Kids Wear,Kids T-Shirt,4,1398,2026-04-04,April,Pending
+O0004,R013,Ethnic Wear,Anarkali Dress,5,1881,2026-04-19,April,Delivered
+O0005,R003,Ethnic Wear,Printed Kurta Set,3,726,2026-04-28,April,Delivered
+O0006,R004,Western Wear,Women Dress,3,833,2026-04-12,April,Delivered
+O0007,R022,Western Wear,Formal Shirt,1,1747,2026-04-21,April,Delivered
+O0008,R008,Ethnic Wear,Designer Saree,3,1299,2026-04-22,April,Delivered
+O0009,R002,Western Wear,Denim Jeans,3,1321,2026-04-09,April,Delivered
+O0010,R019,Beauty & Personal Care,Lipstick,2,1492,2026-04-16,April,Delivered
+O0011,R021,Kids Wear,Girls Frock,2,805,2026-04-24,April,Delivered
+O0012,R009,Home & Kitchen,Wall Decor,5,1835,2026-04-12,April,Delivered
+O0013,R005,Kids Wear,Kids T-Shirt,1,524,2026-04-05,April,Delivered
+O0014,R022,Western Wear,Denim Jeans,4,1281,2026-04-20,April,Pending
+O0015,R017,Western Wear,Oversized T-Shirt,1,1893,2026-04-24,April,Delivered
+O0016,R018,Home & Kitchen,Cushion Cover Set,3,656,2026-04-10,April,Delivered
+O0017,R015,Ethnic Wear,Festive Lehenga,3,2450,2026-04-25,April,Delivered
+O0018,R004,Beauty & Personal Care,Lipstick,5,1397,2026-04-07,April,Delivered
+O0019,R006,Kids Wear,Kids Shorts,1,1526,2026-04-11,April,Delivered
+O0020,R004,Beauty & Personal Care,Lipstick,2,268,2026-04-08,April,Cancelled
+O0021,R003,Ethnic Wear,Designer Saree,1,915,2026-04-05,April,Delivered
+O0022,R018,Ethnic Wear,Cotton Saree,5,2133,2026-04-07,April,Cancelled
+O0023,R023,Western Wear,Crop Top,4,1875,2026-04-21,April,Delivered
+O0024,R017,Kids Wear,Kids Jeans,2,431,2026-04-11,April,Delivered
+O0025,R018,Western Wear,Casual Top,1,645,2026-04-23,April,Delivered
+O0026,R008,Ethnic Wear,Cotton Kurti,3,690,2026-04-17,April,Delivered
+O0027,R022,Kids Wear,Kids Shorts,2,1781,2026-04-30,April,Cancelled
+O0028,R019,Kids Wear,Boys Kurta,4,689,2026-04-04,April,Delivered
+O0029,R014,Western Wear,Women Dress,4,1993,2026-04-02,April,Delivered
+O0030,R021,Ethnic Wear,Designer Saree,3,847,2026-04-08,April,Delivered
+O0031,R018,Kids Wear,Boys Kurta,2,870,2026-04-15,April,Delivered
+O0032,R003,Kids Wear,Kids Shorts,1,403,2026-04-21,April,Pending
+O0033,R001,Beauty & Personal Care,Moisturizer,2,982,2026-04-16,April,Delivered
+O0034,R013,Beauty & Personal Care,Moisturizer,4,154,2026-04-13,April,Delivered
+O0035,R015,Western Wear,Formal Shirt,5,1855,2026-04-23,April,Delivered
+O0036,R007,Western Wear,Denim Jeans,5,2006,2026-04-18,April,Delivered
+O0037,R011,Ethnic Wear,Cotton Saree,4,2459,2026-04-30,April,Cancelled
+O0038,R006,Ethnic Wear,Cotton Saree,1,1161,2026-04-03,April,Delivered
+O0039,R022,Beauty & Personal Care,Hair Serum,1,1973,2026-04-19,April,Delivered
+O0040,R020,Ethnic Wear,Cotton Kurti,4,1695,2026-04-30,April,Delivered
+O0041,R022,Home & Kitchen,Kitchen Organizer,3,1821,2026-04-05,April,Delivered
+O0042,R010,Kids Wear,Kids T-Shirt,1,1238,2026-04-20,April,Pending
+O0043,R004,Ethnic Wear,Printed Kurta Set,5,1486,2026-04-05,April,Cancelled
+O0044,R003,Beauty & Personal Care,Lipstick,3,473,2026-04-15,April,Returned
+O0045,R023,Western Wear,Formal Shirt,5,516,2026-04-22,April,Returned
+O0046,R010,Beauty & Personal Care,Face Wash,2,691,2026-04-04,April,Cancelled
+O0047,R018,Ethnic Wear,Anarkali Dress,5,1262,2026-04-23,April,Delivered
+O0048,R022,Kids Wear,Girls Frock,5,1300,2026-04-09,April,Cancelled
+O0049,R002,Ethnic Wear,Designer Saree,3,580,2026-04-01,April,Delivered
+O0050,R005,Kids Wear,Girls Frock,2,1204,2026-04-18,April,Returned
+O0051,R018,Ethnic Wear,Cotton Kurti,2,547,2026-04-27,April,Delivered
+O0052,R018,Ethnic Wear,Printed Kurta Set,1,1662,2026-04-12,April,Cancelled
+O0053,R002,Beauty & Personal Care,Moisturizer,2,1515,2026-04-04,April,Delivered
+O0054,R018,Beauty & Personal Care,Hair Serum,5,1684,2026-04-05,April,Cancelled
+O0055,R008,Beauty & Personal Care,Moisturizer,4,200,2026-04-06,April,Returned
+O0056,R011,Home & Kitchen,Wall Decor,2,1292,2026-04-06,April,Returned
+O0057,R004,Western Wear,Denim Jeans,4,955,2026-04-07,April,Returned
+O0058,R015,Western Wear,Casual Top,2,548,2026-04-22,April,Delivered
+O0059,R011,Western Wear,Denim Jeans,3,1219,2026-04-21,April,Delivered
+O0060,R022,Beauty & Personal Care,Body Lotion,3,206,2026-04-04,April,Cancelled
+O0061,R009,Ethnic Wear,Anarkali Dress,1,844,2026-04-20,April,Delivered
+O0062,R011,Western Wear,Oversized T-Shirt,1,1288,2026-04-29,April,Delivered
+O0063,R009,Ethnic Wear,Designer Saree,1,1207,2026-04-12,April,Delivered
+O0064,R022,Beauty & Personal Care,Body Lotion,3,1508,2026-04-28,April,Delivered
+O0065,R010,Kids Wear,Kids Party Dress,4,968,2026-04-13,April,Delivered
+O0066,R018,Ethnic Wear,Designer Saree,4,1112,2026-04-20,April,Delivered
+O0067,R013,Kids Wear,Kids T-Shirt,3,887,2026-04-07,April,Delivered
+O0068,R019,Kids Wear,Girls Frock,4,1204,2026-04-15,April,Delivered
+O0069,R017,Kids Wear,Kids Party Dress,2,1649,2026-04-03,April,Delivered
+O0070,R022,Kids Wear,Girls Frock,1,781,2026-04-22,April,Delivered
+O0071,R007,Ethnic Wear,Cotton Kurti,2,2346,2026-04-20,April,Returned
+O0072,R003,Kids Wear,Kids Party Dress,5,698,2026-04-23,April,Delivered
+O0073,R016,Western Wear,Casual Top,1,2037,2026-04-28,April,Returned
+O0074,R004,Home & Kitchen,Kitchen Organizer,2,2321,2026-04-15,April,Delivered
+O0075,R008,Beauty & Personal Care,Face Wash,4,423,2026-04-26,April,Delivered
+O0076,R017,Beauty & Personal Care,Body Lotion,3,1696,2026-04-29,April,Delivered
+O0077,R017,Western Wear,Oversized T-Shirt,4,825,2026-04-24,April,Cancelled
+O0078,R015,Western Wear,Casual Top,3,2068,2026-04-25,April,Delivered
+O0079,R021,Western Wear,Women Dress,1,1961,2026-04-10,April,Delivered
+O0080,R011,Western Wear,Oversized T-Shirt,1,783,2026-04-05,April,Delivered
+O0081,R023,Ethnic Wear,Printed Kurta Set,1,2099,2026-04-14,April,Delivered
+O0082,R015,Western Wear,Casual Top,4,1297,2026-04-29,April,Returned
+O0083,R023,Ethnic Wear,Cotton Saree,4,2353,2026-04-01,April,Cancelled
+O0084,R010,Home & Kitchen,Wall Decor,5,2436,2026-04-26,April,Delivered
+O0085,R008,Kids Wear,Girls Frock,4,1294,2026-04-01,April,Delivered
+O0086,R022,Home & Kitchen,Wall Decor,2,2114,2026-04-30,April,Delivered
+O0087,R020,Kids Wear,Boys Kurta,5,1455,2026-04-22,April,Delivered
+O0088,R021,Western Wear,Women Dress,2,602,2026-04-09,April,Delivered
+O0089,R007,Kids Wear,Girls Frock,4,869,2026-04-25,April,Pending
+O0090,R014,Western Wear,Denim Jeans,4,539,2026-04-24,April,Delivered
+O0091,R012,Western Wear,Denim Jeans,1,2044,2026-04-01,April,Cancelled
+O0092,R007,Home & Kitchen,Cookware Set,2,1177,2026-04-05,April,Delivered
+O0093,R004,Kids Wear,Kids Jeans,4,1732,2026-04-09,April,Returned
+O0094,R006,Kids Wear,Kids Party Dress,1,635,2026-04-10,April,Delivered
+O0095,R001,Beauty & Personal Care,Body Lotion,4,962,2026-04-23,April,Delivered
+O0096,R019,Home & Kitchen,Cushion Cover Set,2,617,2026-04-23,April,Returned
+O0097,R022,Kids Wear,Kids T-Shirt,5,384,2026-04-12,April,Delivered
+O0098,R022,Western Wear,Oversized T-Shirt,3,525,2026-04-28,April,Delivered
+O0099,R016,Ethnic Wear,Anarkali Dress,4,1026,2026-04-14,April,Delivered
+O0100,R017,Beauty & Personal Care,Lipstick,5,1805,2026-04-30,April,Delivered
+O0101,R016,Kids Wear,Kids Party Dress,5,849,2026-04-11,April,Cancelled
+O0102,R003,Western Wear,Women Dress,2,2036,2026-04-15,April,Delivered
+O0103,R022,Western Wear,Denim Jeans,4,1165,2026-04-06,April,Delivered
+O0104,R012,Home & Kitchen,Bedsheet Set,3,2641,2026-04-23,April,Cancelled
+O0105,R018,Ethnic Wear,Printed Kurta Set,1,1388,2026-04-24,April,Delivered
+O0106,R018,Home & Kitchen,Cushion Cover Set,4,2845,2026-04-23,April,Delivered
+O0107,R001,Ethnic Wear,Printed Kurta Set,4,1396,2026-04-10,April,Delivered
+O0108,R012,Kids Wear,Kids Shorts,3,1171,2026-04-24,April,Delivered
+O0109,R012,Home & Kitchen,Bedsheet Set,3,1229,2026-04-08,April,Delivered
+O0110,R007,Western Wear,Formal Shirt,5,2060,2026-04-23,April,Delivered
+O0111,R007,Home & Kitchen,Bedsheet Set,5,2348,2026-04-20,April,Delivered
+O0112,R004,Home & Kitchen,Bedsheet Set,2,1678,2026-04-06,April,Delivered
+O0113,R023,Kids Wear,Girls Frock,1,411,2026-04-18,April,Delivered
+O0114,R005,Kids Wear,Boys Kurta,1,325,2026-04-19,April,Delivered
+O0115,R016,Kids Wear,Kids Jeans,1,817,2026-04-28,April,Delivered
+O0116,R003,Western Wear,Denim Jeans,5,1789,2026-04-22,April,Delivered
+O0117,R005,Home & Kitchen,Bedsheet Set,1,1216,2026-04-04,April,Delivered
+O0118,R014,Kids Wear,Kids Shorts,2,1370,2026-04-13,April,Delivered
+O0119,R015,Western Wear,Oversized T-Shirt,4,1125,2026-04-19,April,Delivered
+O0120,R020,Beauty & Personal Care,Face Wash,2,1431,2026-04-07,April,Delivered
+O0121,R003,Ethnic Wear,Printed Kurta Set,5,707,2026-04-06,April,Delivered
+O0122,R015,Home & Kitchen,Wall Decor,3,333,2026-04-08,April,Delivered
+O0123,R010,Home & Kitchen,Wall Decor,1,1156,2026-04-30,April,Delivered
+O0124,R021,Kids Wear,Kids Jeans,4,535,2026-04-18,April,Delivered
+O0125,R005,Beauty & Personal Care,Moisturizer,1,272,2026-04-06,April,Returned
+O0126,R020,Home & Kitchen,Cookware Set,3,1998,2026-04-04,April,Delivered
+O0127,R010,Home & Kitchen,Bedsheet Set,5,2411,2026-04-16,April,Delivered
+O0128,R020,Ethnic Wear,Designer Saree,3,1425,2026-04-01,April,Delivered
+O0129,R022,Home & Kitchen,Cookware Set,5,284,2026-04-25,April,Delivered
+O0130,R009,Kids Wear,Kids Jeans,4,1362,2026-04-21,April,Delivered
+O0131,R009,Ethnic Wear,Cotton Saree,4,2414,2026-04-03,April,Delivered
+O0132,R014,Western Wear,Formal Shirt,1,829,2026-04-11,April,Delivered
+O0133,R016,Western Wear,Women Dress,5,575,2026-04-15,April,Delivered
+O0134,R009,Western Wear,Women Dress,5,2189,2026-04-01,April,Delivered
+O0135,R018,Kids Wear,Kids T-Shirt,2,1361,2026-04-12,April,Delivered
+O0136,R016,Kids Wear,Kids T-Shirt,2,846,2026-04-18,April,Delivered
+O0137,R010,Western Wear,Formal Shirt,4,748,2026-04-01,April,Pending
+O0138,R020,Home & Kitchen,Cushion Cover Set,2,1472,2026-04-18,April,Delivered
+O0139,R014,Ethnic Wear,Cotton Kurti,4,881,2026-04-21,April,Returned
+O0140,R016,Beauty & Personal Care,Lipstick,5,1594,2026-04-09,April,Delivered
+O0141,R016,Beauty & Personal Care,Moisturizer,4,1278,2026-04-05,April,Delivered
+O0142,R020,Kids Wear,Kids Jeans,1,865,2026-04-25,April,Returned
+O0143,R014,Western Wear,Oversized T-Shirt,3,2180,2026-04-01,April,Delivered
+O0144,R010,Home & Kitchen,Cookware Set,4,808,2026-04-15,April,Delivered
+O0145,R012,Western Wear,Oversized T-Shirt,4,1432,2026-04-30,April,Delivered
+O0146,R007,Beauty & Personal Care,Moisturizer,5,934,2026-04-08,April,Cancelled
+O0147,R014,Ethnic Wear,Festive Lehenga,4,1961,2026-04-13,April,Pending
+O0148,R021,Beauty & Personal Care,Hair Serum,1,408,2026-04-17,April,Pending
+O0149,R011,Beauty & Personal Care,Hair Serum,1,1227,2026-04-30,April,Delivered
+O0150,R005,Western Wear,Formal Shirt,2,653,2026-04-16,April,Returned
+O0151,R009,Western Wear,Formal Shirt,4,1830,2026-04-03,April,Cancelled
+O0152,R022,Beauty & Personal Care,Hair Serum,3,1433,2026-04-23,April,Cancelled
+O0153,R016,Beauty & Personal Care,Face Wash,5,290,2026-04-08,April,Delivered
+O0154,R010,Beauty & Personal Care,Makeup Kit,1,1038,2026-04-04,April,Returned
+O0155,R023,Beauty & Personal Care,Hair Serum,2,1571,2026-04-10,April,Cancelled
+O0156,R002,Western Wear,Denim Jeans,3,1234,2026-04-12,April,Delivered
+O0157,R008,Kids Wear,Kids Shorts,2,648,2026-04-06,April,Delivered
+O0158,R013,Kids Wear,Kids Jeans,4,1494,2026-04-05,April,Delivered
+O0159,R021,Western Wear,Crop Top,1,2147,2026-04-15,April,Cancelled
+O0160,R022,Kids Wear,Kids T-Shirt,4,1007,2026-04-19,April,Delivered
+O0161,R014,Home & Kitchen,Wall Decor,3,1015,2026-04-13,April,Cancelled
+O0162,R004,Western Wear,Oversized T-Shirt,3,1677,2026-04-10,April,Pending
+O0163,R010,Ethnic Wear,Festive Lehenga,4,1524,2026-04-01,April,Delivered
+O0164,R022,Home & Kitchen,Storage Container Set,5,2234,2026-04-27,April,Cancelled
+O0165,R010,Home & Kitchen,Kitchen Organizer,5,1643,2026-04-08,April,Delivered
+O0166,R020,Western Wear,Formal Shirt,2,1786,2026-04-04,April,Cancelled
+O0167,R021,Ethnic Wear,Designer Saree,1,1894,2026-04-24,April,Delivered
+O0168,R010,Western Wear,Women Dress,2,911,2026-04-05,April,Returned
+O0169,R012,Kids Wear,Girls Frock,2,826,2026-04-30,April,Returned
+O0170,R016,Beauty & Personal Care,Lipstick,3,1797,2026-04-04,April,Delivered
+O0171,R003,Ethnic Wear,Printed Kurta Set,4,1898,2026-04-03,April,Returned
+O0172,R001,Western Wear,Denim Jeans,4,1254,2026-04-22,April,Returned
+O0173,R009,Kids Wear,Kids Party Dress,3,521,2026-04-22,April,Delivered
+O0174,R001,Kids Wear,Kids Shorts,3,1549,2026-04-08,April,Delivered
+O0175,R021,Home & Kitchen,Cushion Cover Set,3,2859,2026-04-14,April,Delivered
+O0176,R002,Beauty & Personal Care,Lipstick,4,387,2026-04-04,April,Delivered
+O0177,R018,Ethnic Wear,Designer Saree,3,2116,2026-04-19,April,Returned
+O0178,R005,Beauty & Personal Care,Makeup Kit,1,1857,2026-04-16,April,Delivered
+O0179,R009,Ethnic Wear,Anarkali Dress,2,2216,2026-04-15,April,Pending
+O0180,R012,Ethnic Wear,Festive Lehenga,3,1869,2026-04-02,April,Delivered
+O0181,R007,Beauty & Personal Care,Hair Serum,1,1507,2026-04-07,April,Delivered
+O0182,R020,Beauty & Personal Care,Face Wash,3,648,2026-04-05,April,Returned
+O0183,R007,Ethnic Wear,Cotton Saree,2,1284,2026-04-27,April,Cancelled
+O0184,R011,Home & Kitchen,Cookware Set,1,1335,2026-04-28,April,Pending
+O0185,R005,Kids Wear,Kids Jeans,1,1653,2026-04-28,April,Delivered
+O0186,R001,Western Wear,Casual Top,5,1163,2026-04-01,April,Delivered
+O0187,R002,Ethnic Wear,Designer Saree,5,865,2026-04-24,April,Delivered
+O0188,R015,Home & Kitchen,Cookware Set,5,646,2026-04-15,April,Delivered
+O0189,R020,Ethnic Wear,Festive Lehenga,5,1635,2026-04-15,April,Delivered
+O0190,R001,Ethnic Wear,Designer Saree,4,2146,2026-04-22,April,Delivered
+O0191,R023,Beauty & Personal Care,Face Wash,1,809,2026-04-20,April,Delivered
+O0192,R005,Western Wear,Formal Shirt,5,1623,2026-04-23,April,Delivered
+O0193,R020,Kids Wear,Boys Kurta,5,1539,2026-04-14,April,Delivered
+O0194,R023,Ethnic Wear,Festive Lehenga,5,1280,2026-04-14,April,Delivered
+O0195,R008,Western Wear,Women Dress,4,1351,2026-04-24,April,Delivered
+O0196,R014,Western Wear,Crop Top,3,812,2026-04-22,April,Cancelled
+O0197,R003,Ethnic Wear,Cotton Kurti,1,2168,2026-04-04,April,Returned
+O0198,R012,Home & Kitchen,Cookware Set,1,2602,2026-04-18,April,Delivered
+O0199,R022,Ethnic Wear,Anarkali Dress,4,610,2026-04-10,April,Delivered
+O0200,R012,Ethnic Wear,Cotton Saree,2,1033,2026-04-22,April,Delivered
+O0201,R004,Western Wear,Oversized T-Shirt,3,735,2026-04-25,April,Delivered
+O0202,R008,Home & Kitchen,Cookware Set,5,2713,2026-04-22,April,Delivered
+O0203,R001,Kids Wear,Kids Party Dress,3,359,2026-04-06,April,Delivered
+O0204,R010,Beauty & Personal Care,Lipstick,1,521,2026-04-28,April,Delivered
+O0205,R022,Western Wear,Casual Top,1,687,2026-04-24,April,Delivered
+O0206,R013,Western Wear,Crop Top,2,1257,2026-04-10,April,Returned
+O0207,R019,Kids Wear,Kids T-Shirt,2,622,2026-04-25,April,Delivered
+O0208,R022,Ethnic Wear,Designer Saree,4,2389,2026-04-20,April,Delivered
+O0209,R009,Western Wear,Oversized T-Shirt,1,1206,2026-04-14,April,Delivered
+O0210,R022,Home & Kitchen,Wall Decor,5,2932,2026-04-10,April,Delivered
+O0211,R013,Beauty & Personal Care,Face Wash,1,568,2026-04-10,April,Cancelled
+O0212,R005,Home & Kitchen,Bedsheet Set,3,691,2026-04-01,April,Delivered
+O0213,R014,Ethnic Wear,Designer Saree,5,1342,2026-04-17,April,Delivered
+O0214,R022,Home & Kitchen,Storage Container Set,4,373,2026-04-14,April,Delivered
+O0215,R003,Beauty & Personal Care,Body Lotion,4,1324,2026-04-13,April,Returned
+O0216,R014,Western Wear,Women Dress,1,1165,2026-04-06,April,Returned
+O0217,R020,Kids Wear,Kids Party Dress,3,480,2026-04-14,April,Returned
+O0218,R008,Western Wear,Women Dress,5,661,2026-04-13,April,Cancelled
+O0219,R011,Western Wear,Casual Top,1,1545,2026-04-21,April,Delivered
+O0220,R017,Ethnic Wear,Anarkali Dress,3,1004,2026-04-08,April,Delivered
+O0221,R009,Ethnic Wear,Cotton Saree,2,708,2026-04-06,April,Pending
+O0222,R021,Kids Wear,Kids Shorts,5,1219,2026-04-22,April,Cancelled
+O0223,R019,Home & Kitchen,Cookware Set,3,2769,2026-04-11,April,Delivered
+O0224,R003,Kids Wear,Kids Party Dress,3,862,2026-04-19,April,Delivered
+O0225,R017,Ethnic Wear,Designer Saree,4,554,2026-04-02,April,Delivered
+O0226,R010,Ethnic Wear,Cotton Kurti,5,2476,2026-04-13,April,Delivered
+O0227,R018,Beauty & Personal Care,Makeup Kit,1,1071,2026-04-30,April,Returned
+O0228,R021,Ethnic Wear,Cotton Saree,4,2453,2026-04-05,April,Pending
+O0229,R015,Ethnic Wear,Anarkali Dress,1,2466,2026-04-21,April,Delivered
+O0230,R008,Home & Kitchen,Wall Decor,5,2341,2026-04-20,April,Delivered
+O0231,R012,Beauty & Personal Care,Hair Serum,4,1736,2026-04-11,April,Delivered
+O0232,R002,Home & Kitchen,Cushion Cover Set,3,469,2026-04-11,April,Delivered
+O0233,R022,Western Wear,Crop Top,5,807,2026-04-11,April,Delivered
+O0234,R022,Ethnic Wear,Anarkali Dress,3,2005,2026-04-05,April,Delivered
+O0235,R003,Western Wear,Women Dress,3,2165,2026-04-05,April,Delivered
+O0236,R022,Beauty & Personal Care,Face Wash,4,1191,2026-04-12,April,Delivered
+O0237,R010,Ethnic Wear,Printed Kurta Set,3,2391,2026-04-07,April,Delivered
+O0238,R005,Ethnic Wear,Anarkali Dress,1,2479,2026-04-25,April,Delivered
+O0239,R017,Ethnic Wear,Anarkali Dress,5,936,2026-04-20,April,Delivered
+O0240,R006,Ethnic Wear,Festive Lehenga,5,1078,2026-04-24,April,Delivered
+O0241,R014,Western Wear,Formal Shirt,2,1409,2026-04-20,April,Delivered
+O0242,R015,Western Wear,Casual Top,3,2156,2026-04-26,April,Delivered
+O0243,R007,Western Wear,Oversized T-Shirt,4,1445,2026-04-25,April,Delivered
+O0244,R013,Kids Wear,Boys Kurta,2,708,2026-04-26,April,Delivered
+O0245,R009,Ethnic Wear,Designer Saree,3,820,2026-04-23,April,Returned
+O0246,R004,Western Wear,Casual Top,3,1420,2026-04-29,April,Delivered
+O0247,R014,Ethnic Wear,Printed Kurta Set,4,1831,2026-04-30,April,Delivered
+O0248,R002,Western Wear,Crop Top,2,1290,2026-04-03,April,Delivered
+O0249,R001,Western Wear,Denim Jeans,3,2120,2026-04-05,April,Delivered
+O0250,R010,Beauty & Personal Care,Hair Serum,2,1704,2026-04-23,April,Delivered
+O0251,R020,Ethnic Wear,Cotton Kurti,1,1448,2026-04-07,April,Returned
+O0252,R018,Beauty & Personal Care,Body Lotion,5,1016,2026-04-04,April,Returned
+O0253,R008,Western Wear,Denim Jeans,2,1359,2026-04-21,April,Returned
+O0254,R015,Ethnic Wear,Designer Saree,5,467,2026-04-21,April,Delivered
+O0255,R008,Home & Kitchen,Bedsheet Set,4,206,2026-04-20,April,Delivered
+O0256,R019,Western Wear,Formal Shirt,1,1572,2026-04-12,April,Delivered
+O0257,R017,Kids Wear,Kids Shorts,5,341,2026-04-13,April,Cancelled
+O0258,R002,Kids Wear,Girls Frock,3,333,2026-04-12,April,Returned
+O0259,R012,Western Wear,Formal Shirt,1,2080,2026-04-19,April,Returned
+O0260,R011,Ethnic Wear,Anarkali Dress,5,1786,2026-04-27,April,Delivered
+O0261,R022,Kids Wear,Kids Party Dress,4,1593,2026-04-06,April,Returned
+O0262,R003,Home & Kitchen,Wall Decor,1,1401,2026-04-07,April,Delivered
+O0263,R007,Beauty & Personal Care,Lipstick,3,1205,2026-04-13,April,Pending
+O0264,R018,Kids Wear,Kids T-Shirt,2,885,2026-04-12,April,Cancelled
+O0265,R002,Beauty & Personal Care,Lipstick,3,404,2026-04-26,April,Delivered
+O0266,R013,Home & Kitchen,Wall Decor,3,965,2026-04-16,April,Delivered
+O0267,R012,Beauty & Personal Care,Body Lotion,3,1790,2026-04-03,April,Returned
+O0268,R003,Western Wear,Casual Top,5,1101,2026-04-11,April,Delivered
+O0269,R011,Home & Kitchen,Bedsheet Set,4,2668,2026-04-23,April,Delivered
+O0270,R023,Kids Wear,Boys Kurta,1,1788,2026-04-28,April,Cancelled
+O0271,R020,Beauty & Personal Care,Lipstick,1,303,2026-04-22,April,Delivered
+O0272,R012,Kids Wear,Kids Party Dress,2,363,2026-04-05,April,Returned
+O0273,R022,Home & Kitchen,Storage Container Set,2,475,2026-04-08,April,Returned
+O0274,R012,Western Wear,Oversized T-Shirt,1,1739,2026-04-05,April,Delivered
+O0275,R012,Western Wear,Denim Jeans,5,781,2026-04-17,April,Delivered
+O0276,R011,Home & Kitchen,Kitchen Organizer,1,306,2026-04-24,April,Delivered
+O0277,R017,Western Wear,Oversized T-Shirt,1,1036,2026-04-25,April,Delivered
+O0278,R015,Western Wear,Oversized T-Shirt,3,1921,2026-04-30,April,Pending
+O0279,R007,Ethnic Wear,Cotton Kurti,4,1107,2026-04-29,April,Returned
+O0280,R003,Home & Kitchen,Bedsheet Set,3,465,2026-04-18,April,Delivered
+O0281,R010,Beauty & Personal Care,Makeup Kit,2,1775,2026-04-12,April,Delivered
+O0282,R004,Beauty & Personal Care,Moisturizer,2,1768,2026-04-16,April,Delivered
+O0283,R018,Kids Wear,Boys Kurta,5,565,2026-04-20,April,Cancelled
+O0284,R003,Western Wear,Formal Shirt,4,1576,2026-04-14,April,Returned
+O0285,R019,Ethnic Wear,Anarkali Dress,1,2243,2026-04-15,April,Delivered
+O0286,R012,Ethnic Wear,Cotton Saree,5,1145,2026-04-25,April,Pending
+O0287,R014,Kids Wear,Kids T-Shirt,1,1361,2026-04-05,April,Delivered
+O0288,R006,Western Wear,Formal Shirt,2,1208,2026-04-17,April,Cancelled
+O0289,R003,Western Wear,Formal Shirt,5,1062,2026-04-05,April,Delivered
+O0290,R020,Kids Wear,Kids Shorts,2,1512,2026-04-19,April,Delivered
+O0291,R022,Kids Wear,Kids Shorts,3,1454,2026-04-02,April,Returned
+O0292,R001,Ethnic Wear,Festive Lehenga,5,1484,2026-04-21,April,Delivered
+O0293,R019,Western Wear,Formal Shirt,1,1519,2026-04-29,April,Delivered
+O0294,R010,Home & Kitchen,Bedsheet Set,4,1203,2026-04-26,April,Returned
+O0295,R013,Western Wear,Denim Jeans,1,823,2026-04-15,April,Delivered
+O0296,R015,Western Wear,Oversized T-Shirt,2,1140,2026-04-28,April,Returned
+O0297,R012,Beauty & Personal Care,Moisturizer,3,1204,2026-04-18,April,Delivered
+O0298,R008,Kids Wear,Girls Frock,4,807,2026-04-05,April,Delivered
+O0299,R010,Beauty & Personal Care,Body Lotion,4,658,2026-04-28,April,Cancelled
+O0300,R011,Beauty & Personal Care,Makeup Kit,3,538,2026-04-25,April,Delivered
+O0301,R017,Western Wear,Crop Top,4,547,2026-05-03,May,Cancelled
+O0302,R017,Western Wear,Casual Top,2,1694,2026-05-12,May,Delivered
+O0303,R010,Western Wear,Formal Shirt,4,1085,2026-05-18,May,Delivered
+O0304,R004,Western Wear,Crop Top,3,2064,2026-05-13,May,Delivered
+O0305,R013,Ethnic Wear,Cotton Saree,2,1884,2026-05-18,May,Delivered
+O0306,R013,Western Wear,Oversized T-Shirt,3,2190,2026-05-20,May,Delivered
+O0307,R004,Ethnic Wear,Cotton Kurti,4,1928,2026-05-26,May,Pending
+O0308,R018,Beauty & Personal Care,Moisturizer,2,1383,2026-05-17,May,Delivered
+O0309,R002,Ethnic Wear,Printed Kurta Set,3,2340,2026-05-17,May,Delivered
+O0310,R020,Beauty & Personal Care,Moisturizer,3,1405,2026-05-11,May,Delivered
+O0311,R020,Home & Kitchen,Bedsheet Set,5,1577,2026-05-17,May,Returned
+O0312,R018,Western Wear,Oversized T-Shirt,3,1472,2026-05-27,May,Delivered
+O0313,R011,Kids Wear,Boys Kurta,5,930,2026-05-26,May,Cancelled
+O0314,R023,Kids Wear,Kids Shorts,4,843,2026-05-31,May,Delivered
+O0315,R019,Kids Wear,Kids Party Dress,1,1495,2026-05-16,May,Delivered
+O0316,R021,Home & Kitchen,Wall Decor,2,2988,2026-05-08,May,Delivered
+O0317,R023,Ethnic Wear,Cotton Kurti,4,1684,2026-05-14,May,Delivered
+O0318,R023,Ethnic Wear,Cotton Saree,5,2331,2026-05-28,May,Returned
+O0319,R002,Home & Kitchen,Cookware Set,2,2497,2026-05-11,May,Pending
+O0320,R016,Western Wear,Crop Top,2,1441,2026-05-30,May,Delivered
+O0321,R018,Western Wear,Formal Shirt,3,1749,2026-05-16,May,Delivered
+O0322,R008,Ethnic Wear,Anarkali Dress,2,1619,2026-05-25,May,Delivered
+O0323,R007,Kids Wear,Boys Kurta,3,1282,2026-05-12,May,Delivered
+O0324,R009,Ethnic Wear,Cotton Saree,5,1955,2026-05-29,May,Pending
+O0325,R012,Beauty & Personal Care,Moisturizer,3,236,2026-05-10,May,Pending
+O0326,R003,Western Wear,Women Dress,3,2030,2026-05-16,May,Delivered
+O0327,R018,Ethnic Wear,Cotton Saree,3,962,2026-05-04,May,Delivered
+O0328,R019,Ethnic Wear,Cotton Kurti,5,1324,2026-05-21,May,Delivered
+O0329,R004,Western Wear,Formal Shirt,4,705,2026-05-22,May,Returned
+O0330,R001,Beauty & Personal Care,Moisturizer,4,1487,2026-05-30,May,Cancelled
+O0331,R016,Western Wear,Casual Top,3,1157,2026-05-10,May,Delivered
+O0332,R003,Kids Wear,Kids Jeans,5,1780,2026-05-28,May,Cancelled
+O0333,R006,Western Wear,Casual Top,1,1313,2026-05-26,May,Delivered
+O0334,R010,Beauty & Personal Care,Face Wash,3,1313,2026-05-20,May,Delivered
+O0335,R011,Ethnic Wear,Festive Lehenga,5,2423,2026-05-29,May,Cancelled
+O0336,R017,Western Wear,Casual Top,1,1177,2026-05-06,May,Returned
+O0337,R021,Ethnic Wear,Printed Kurta Set,1,1780,2026-05-26,May,Delivered
+O0338,R022,Home & Kitchen,Kitchen Organizer,5,2816,2026-05-29,May,Delivered
+O0339,R014,Western Wear,Denim Jeans,4,1870,2026-05-04,May,Delivered
+O0340,R005,Western Wear,Casual Top,1,1034,2026-05-13,May,Delivered
+O0341,R009,Beauty & Personal Care,Lipstick,5,1630,2026-05-19,May,Delivered
+O0342,R021,Western Wear,Casual Top,1,1867,2026-05-04,May,Delivered
+O0343,R006,Western Wear,Oversized T-Shirt,3,1913,2026-05-04,May,Delivered
+O0344,R010,Western Wear,Casual Top,2,773,2026-05-16,May,Delivered
+O0345,R020,Western Wear,Formal Shirt,5,1464,2026-05-25,May,Delivered
+O0346,R022,Home & Kitchen,Kitchen Organizer,5,535,2026-05-17,May,Delivered
+O0347,R023,Western Wear,Oversized T-Shirt,1,626,2026-05-27,May,Delivered
+O0348,R017,Ethnic Wear,Cotton Saree,2,1073,2026-05-11,May,Cancelled
+O0349,R015,Ethnic Wear,Printed Kurta Set,5,2402,2026-05-03,May,Cancelled
+O0350,R015,Home & Kitchen,Wall Decor,2,2302,2026-05-14,May,Delivered
+O0351,R002,Kids Wear,Kids Party Dress,3,1781,2026-05-01,May,Delivered
+O0352,R001,Home & Kitchen,Cookware Set,1,385,2026-05-14,May,Delivered
+O0353,R003,Kids Wear,Kids T-Shirt,1,1266,2026-05-02,May,Delivered
+O0354,R006,Home & Kitchen,Cushion Cover Set,4,1733,2026-05-29,May,Delivered
+O0355,R013,Western Wear,Formal Shirt,5,772,2026-05-21,May,Cancelled
+O0356,R004,Ethnic Wear,Cotton Saree,4,921,2026-05-24,May,Pending
+O0357,R001,Home & Kitchen,Bedsheet Set,4,2958,2026-05-24,May,Delivered
+O0358,R018,Western Wear,Casual Top,2,1443,2026-05-12,May,Delivered
+O0359,R007,Beauty & Personal Care,Makeup Kit,1,215,2026-05-26,May,Delivered
+O0360,R020,Home & Kitchen,Storage Container Set,2,1044,2026-05-03,May,Delivered
+O0361,R002,Western Wear,Formal Shirt,1,1001,2026-05-24,May,Delivered
+O0362,R015,Ethnic Wear,Printed Kurta Set,1,973,2026-05-17,May,Pending
+O0363,R008,Home & Kitchen,Cushion Cover Set,5,1506,2026-05-19,May,Delivered
+O0364,R022,Home & Kitchen,Kitchen Organizer,3,786,2026-05-22,May,Delivered
+O0365,R014,Ethnic Wear,Cotton Kurti,5,1117,2026-05-21,May,Delivered
+O0366,R018,Western Wear,Crop Top,4,2109,2026-05-17,May,Delivered
+O0367,R014,Western Wear,Crop Top,4,876,2026-05-25,May,Delivered
+O0368,R008,Beauty & Personal Care,Lipstick,2,1800,2026-05-15,May,Cancelled
+O0369,R018,Western Wear,Women Dress,5,1585,2026-05-05,May,Delivered
+O0370,R009,Ethnic Wear,Festive Lehenga,1,2242,2026-05-28,May,Delivered
+O0371,R018,Home & Kitchen,Kitchen Organizer,1,1299,2026-05-13,May,Delivered
+O0372,R020,Ethnic Wear,Cotton Kurti,2,1288,2026-05-16,May,Delivered
+O0373,R011,Ethnic Wear,Cotton Kurti,2,1178,2026-05-31,May,Returned
+O0374,R016,Beauty & Personal Care,Makeup Kit,5,1591,2026-05-07,May,Delivered
+O0375,R008,Kids Wear,Girls Frock,4,1254,2026-05-18,May,Delivered
+O0376,R010,Ethnic Wear,Cotton Saree,4,2308,2026-05-04,May,Returned
+O0377,R016,Home & Kitchen,Bedsheet Set,2,1718,2026-05-11,May,Delivered
+O0378,R019,Beauty & Personal Care,Makeup Kit,2,183,2026-05-09,May,Delivered
+O0379,R019,Kids Wear,Boys Kurta,3,612,2026-05-07,May,Delivered
+O0380,R013,Kids Wear,Kids Jeans,4,1427,2026-05-21,May,Cancelled
+O0381,R011,Ethnic Wear,Designer Saree,4,2287,2026-05-06,May,Returned
+O0382,R012,Ethnic Wear,Festive Lehenga,5,2400,2026-05-06,May,Cancelled
+O0383,R018,Beauty & Personal Care,Face Wash,5,219,2026-05-27,May,Returned
+O0384,R022,Ethnic Wear,Cotton Kurti,4,963,2026-05-27,May,Delivered
+O0385,R003,Home & Kitchen,Storage Container Set,2,2271,2026-05-15,May,Delivered
+O0386,R020,Kids Wear,Kids Shorts,4,1650,2026-05-16,May,Delivered
+O0387,R018,Kids Wear,Kids T-Shirt,1,1384,2026-05-24,May,Delivered
+O0388,R010,Ethnic Wear,Festive Lehenga,4,1134,2026-05-04,May,Cancelled
+O0389,R017,Ethnic Wear,Printed Kurta Set,5,1433,2026-05-27,May,Delivered
+O0390,R013,Ethnic Wear,Designer Saree,4,1396,2026-05-23,May,Delivered
+O0391,R022,Home & Kitchen,Storage Container Set,1,582,2026-05-13,May,Delivered
+O0392,R018,Western Wear,Formal Shirt,1,1939,2026-05-06,May,Delivered
+O0393,R014,Kids Wear,Girls Frock,5,495,2026-05-29,May,Delivered
+O0394,R002,Ethnic Wear,Festive Lehenga,5,2347,2026-05-09,May,Delivered
+O0395,R003,Kids Wear,Girls Frock,5,1454,2026-05-22,May,Delivered
+O0396,R011,Ethnic Wear,Printed Kurta Set,5,990,2026-05-25,May,Returned
+O0397,R013,Beauty & Personal Care,Lipstick,2,1304,2026-05-08,May,Delivered
+O0398,R013,Kids Wear,Kids Shorts,3,1086,2026-05-25,May,Returned
+O0399,R023,Home & Kitchen,Cookware Set,3,419,2026-05-04,May,Delivered
+O0400,R003,Western Wear,Oversized T-Shirt,5,1312,2026-05-25,May,Delivered
+O0401,R021,Ethnic Wear,Designer Saree,4,1334,2026-05-12,May,Delivered
+O0402,R013,Western Wear,Formal Shirt,5,1853,2026-05-13,May,Delivered
+O0403,R020,Ethnic Wear,Printed Kurta Set,1,736,2026-05-09,May,Delivered
+O0404,R023,Home & Kitchen,Kitchen Organizer,4,1497,2026-05-12,May,Delivered
+O0405,R001,Beauty & Personal Care,Hair Serum,3,1709,2026-05-09,May,Delivered
+O0406,R003,Ethnic Wear,Designer Saree,5,2498,2026-05-14,May,Delivered
+O0407,R003,Western Wear,Denim Jeans,5,1724,2026-05-26,May,Delivered
+O0408,R013,Ethnic Wear,Designer Saree,4,746,2026-05-24,May,Cancelled
+O0409,R008,Kids Wear,Kids Jeans,4,647,2026-05-05,May,Delivered
+O0410,R009,Western Wear,Denim Jeans,2,1390,2026-05-09,May,Delivered
+O0411,R016,Home & Kitchen,Bedsheet Set,3,1210,2026-05-24,May,Delivered
+O0412,R020,Kids Wear,Boys Kurta,1,577,2026-05-10,May,Delivered
+O0413,R013,Ethnic Wear,Cotton Saree,4,1749,2026-05-15,May,Delivered
+O0414,R021,Beauty & Personal Care,Moisturizer,3,806,2026-05-20,May,Cancelled
+O0415,R007,Western Wear,Casual Top,4,1153,2026-05-10,May,Returned
+O0416,R021,Western Wear,Oversized T-Shirt,2,1167,2026-05-13,May,Delivered
+O0417,R013,Western Wear,Oversized T-Shirt,2,1712,2026-05-18,May,Delivered
+O0418,R018,Ethnic Wear,Festive Lehenga,4,1258,2026-05-15,May,Returned
+O0419,R023,Ethnic Wear,Designer Saree,4,970,2026-05-21,May,Delivered
+O0420,R009,Kids Wear,Kids Party Dress,4,1072,2026-05-03,May,Delivered
+O0421,R020,Western Wear,Women Dress,5,1537,2026-05-30,May,Cancelled
+O0422,R023,Western Wear,Denim Jeans,3,1936,2026-05-29,May,Returned
+O0423,R020,Kids Wear,Kids T-Shirt,1,808,2026-05-22,May,Delivered
+O0424,R006,Kids Wear,Kids T-Shirt,5,1621,2026-05-22,May,Delivered
+O0425,R011,Beauty & Personal Care,Hair Serum,1,171,2026-05-04,May,Delivered
+O0426,R017,Home & Kitchen,Cookware Set,5,2556,2026-05-08,May,Delivered
+O0427,R013,Western Wear,Formal Shirt,5,1914,2026-05-17,May,Delivered
+O0428,R001,Western Wear,Crop Top,4,675,2026-05-04,May,Returned
+O0429,R005,Western Wear,Crop Top,4,2106,2026-05-07,May,Delivered
+O0430,R012,Western Wear,Women Dress,4,1153,2026-05-03,May,Delivered
+O0431,R023,Ethnic Wear,Anarkali Dress,1,1073,2026-05-30,May,Pending
+O0432,R008,Western Wear,Oversized T-Shirt,2,1177,2026-05-18,May,Delivered
+O0433,R015,Ethnic Wear,Designer Saree,2,1163,2026-05-21,May,Delivered
+O0434,R013,Ethnic Wear,Cotton Saree,2,2241,2026-05-19,May,Delivered
+O0435,R001,Home & Kitchen,Kitchen Organizer,3,456,2026-05-19,May,Delivered
+O0436,R018,Ethnic Wear,Anarkali Dress,2,2274,2026-05-04,May,Delivered
+O0437,R016,Western Wear,Formal Shirt,3,1722,2026-05-13,May,Delivered
+O0438,R019,Ethnic Wear,Anarkali Dress,4,1106,2026-05-27,May,Delivered
+O0439,R010,Beauty & Personal Care,Body Lotion,1,1526,2026-05-05,May,Delivered
+O0440,R008,Ethnic Wear,Printed Kurta Set,3,979,2026-05-17,May,Delivered
+O0441,R020,Ethnic Wear,Designer Saree,4,1160,2026-05-16,May,Delivered
+O0442,R023,Beauty & Personal Care,Moisturizer,5,491,2026-05-16,May,Delivered
+O0443,R006,Ethnic Wear,Designer Saree,5,619,2026-05-28,May,Delivered
+O0444,R001,Western Wear,Casual Top,4,1650,2026-05-17,May,Delivered
+O0445,R014,Kids Wear,Boys Kurta,4,1300,2026-05-06,May,Delivered
+O0446,R001,Home & Kitchen,Kitchen Organizer,3,333,2026-05-09,May,Delivered
+O0447,R010,Ethnic Wear,Designer Saree,5,2428,2026-05-18,May,Delivered
+O0448,R019,Ethnic Wear,Cotton Saree,3,570,2026-05-25,May,Returned
+O0449,R018,Ethnic Wear,Designer Saree,1,1413,2026-05-10,May,Cancelled
+O0450,R002,Western Wear,Crop Top,1,1399,2026-05-28,May,Pending
+O0451,R008,Ethnic Wear,Festive Lehenga,5,1836,2026-05-28,May,Returned
+O0452,R021,Western Wear,Oversized T-Shirt,2,2107,2026-05-07,May,Returned
+O0453,R002,Kids Wear,Kids Shorts,3,1522,2026-05-18,May,Delivered
+O0454,R023,Ethnic Wear,Cotton Saree,3,790,2026-05-05,May,Pending
+O0455,R014,Beauty & Personal Care,Lipstick,2,1586,2026-05-28,May,Delivered
+O0456,R005,Home & Kitchen,Kitchen Organizer,4,2204,2026-05-05,May,Delivered
+O0457,R009,Kids Wear,Boys Kurta,4,454,2026-05-21,May,Returned
+O0458,R003,Western Wear,Formal Shirt,3,1922,2026-05-30,May,Cancelled
+O0459,R015,Beauty & Personal Care,Lipstick,5,155,2026-05-28,May,Returned
+O0460,R003,Home & Kitchen,Wall Decor,3,459,2026-05-26,May,Delivered
+O0461,R007,Beauty & Personal Care,Moisturizer,4,699,2026-05-11,May,Returned
+O0462,R011,Kids Wear,Kids Jeans,5,1293,2026-05-26,May,Delivered
+O0463,R022,Home & Kitchen,Storage Container Set,1,2764,2026-05-26,May,Returned
+O0464,R001,Ethnic Wear,Printed Kurta Set,4,2269,2026-05-01,May,Pending
+O0465,R014,Ethnic Wear,Festive Lehenga,2,1636,2026-05-06,May,Cancelled
+O0466,R009,Ethnic Wear,Anarkali Dress,3,737,2026-05-12,May,Delivered
+O0467,R021,Ethnic Wear,Designer Saree,3,1359,2026-05-14,May,Delivered
+O0468,R023,Ethnic Wear,Printed Kurta Set,4,719,2026-05-05,May,Delivered
+O0469,R017,Kids Wear,Kids T-Shirt,1,1724,2026-05-11,May,Returned
+O0470,R014,Kids Wear,Boys Kurta,1,768,2026-05-13,May,Delivered
+O0471,R004,Ethnic Wear,Anarkali Dress,3,961,2026-05-13,May,Returned
+O0472,R005,Kids Wear,Kids Party Dress,2,440,2026-05-17,May,Delivered
+O0473,R020,Kids Wear,Boys Kurta,3,1779,2026-05-07,May,Delivered
+O0474,R005,Beauty & Personal Care,Body Lotion,4,1911,2026-05-07,May,Delivered
+O0475,R004,Ethnic Wear,Cotton Kurti,5,1972,2026-05-12,May,Pending
+O0476,R011,Home & Kitchen,Kitchen Organizer,3,2840,2026-05-03,May,Delivered
+O0477,R020,Kids Wear,Kids Shorts,3,1714,2026-05-01,May,Returned
+O0478,R022,Beauty & Personal Care,Moisturizer,5,1392,2026-05-17,May,Delivered
+O0479,R013,Ethnic Wear,Cotton Kurti,2,2427,2026-05-13,May,Delivered
+O0480,R016,Kids Wear,Kids T-Shirt,5,324,2026-05-12,May,Cancelled
+O0481,R005,Western Wear,Oversized T-Shirt,4,1248,2026-05-18,May,Delivered
+O0482,R016,Beauty & Personal Care,Face Wash,1,1352,2026-05-03,May,Delivered
+O0483,R007,Ethnic Wear,Cotton Kurti,4,2475,2026-05-10,May,Delivered
+O0484,R017,Home & Kitchen,Wall Decor,4,537,2026-05-21,May,Delivered
+O0485,R020,Ethnic Wear,Cotton Kurti,3,723,2026-05-17,May,Cancelled
+O0486,R005,Western Wear,Women Dress,5,1799,2026-05-25,May,Returned
+O0487,R022,Kids Wear,Girls Frock,4,1794,2026-05-31,May,Returned
+O0488,R002,Ethnic Wear,Designer Saree,1,2257,2026-05-20,May,Delivered
+O0489,R010,Kids Wear,Kids Party Dress,2,544,2026-05-01,May,Returned
+O0490,R023,Ethnic Wear,Designer Saree,3,1461,2026-05-06,May,Delivered
+O0491,R009,Home & Kitchen,Storage Container Set,1,1572,2026-05-26,May,Delivered
+O0492,R017,Ethnic Wear,Festive Lehenga,5,715,2026-05-16,May,Delivered
+O0493,R012,Ethnic Wear,Cotton Saree,2,1906,2026-05-06,May,Delivered
+O0494,R004,Beauty & Personal Care,Makeup Kit,1,617,2026-05-24,May,Delivered
+O0495,R002,Beauty & Personal Care,Face Wash,2,244,2026-05-16,May,Delivered
+O0496,R005,Ethnic Wear,Cotton Kurti,5,2117,2026-05-08,May,Delivered
+O0497,R014,Beauty & Personal Care,Lipstick,3,1841,2026-05-03,May,Delivered
+O0498,R004,Western Wear,Denim Jeans,2,957,2026-05-26,May,Delivered
+O0499,R002,Beauty & Personal Care,Face Wash,4,1923,2026-05-10,May,Returned
+O0500,R010,Ethnic Wear,Cotton Saree,4,432,2026-05-12,May,Delivered
+O0501,R019,Home & Kitchen,Cushion Cover Set,5,1193,2026-05-15,May,Delivered
+O0502,R016,Beauty & Personal Care,Moisturizer,5,1707,2026-05-26,May,Delivered
+O0503,R001,Beauty & Personal Care,Face Wash,2,1259,2026-05-12,May,Delivered
+O0504,R023,Beauty & Personal Care,Lipstick,1,1704,2026-05-22,May,Delivered
+O0505,R010,Ethnic Wear,Cotton Saree,2,2119,2026-05-16,May,Pending
+O0506,R005,Home & Kitchen,Storage Container Set,1,1148,2026-05-29,May,Returned
+O0507,R014,Home & Kitchen,Bedsheet Set,4,547,2026-05-19,May,Delivered
+O0508,R005,Kids Wear,Boys Kurta,1,1512,2026-05-19,May,Delivered
+O0509,R022,Beauty & Personal Care,Moisturizer,3,684,2026-05-28,May,Delivered
+O0510,R013,Home & Kitchen,Cushion Cover Set,3,1502,2026-05-15,May,Delivered
+O0511,R003,Beauty & Personal Care,Moisturizer,5,373,2026-05-05,May,Delivered
+O0512,R015,Western Wear,Women Dress,1,1597,2026-05-12,May,Pending
+O0513,R007,Western Wear,Women Dress,3,745,2026-05-03,May,Delivered
+O0514,R022,Ethnic Wear,Festive Lehenga,5,565,2026-05-07,May,Returned
+O0515,R011,Ethnic Wear,Festive Lehenga,2,1857,2026-05-13,May,Delivered
+O0516,R022,Ethnic Wear,Printed Kurta Set,1,2056,2026-05-28,May,Delivered
+O0517,R018,Ethnic Wear,Designer Saree,1,972,2026-05-04,May,Delivered
+O0518,R008,Ethnic Wear,Designer Saree,3,744,2026-05-19,May,Delivered
+O0519,R003,Ethnic Wear,Cotton Kurti,2,2216,2026-05-26,May,Delivered
+O0520,R011,Ethnic Wear,Designer Saree,1,1088,2026-05-30,May,Delivered
+O0521,R013,Western Wear,Women Dress,4,853,2026-05-12,May,Delivered
+O0522,R006,Ethnic Wear,Designer Saree,2,541,2026-05-20,May,Delivered
+O0523,R008,Kids Wear,Boys Kurta,4,1427,2026-05-16,May,Delivered
+O0524,R009,Western Wear,Women Dress,2,1816,2026-05-29,May,Returned
+O0525,R008,Kids Wear,Kids Shorts,1,1083,2026-05-26,May,Returned
+O0526,R016,Kids Wear,Boys Kurta,3,1458,2026-05-17,May,Delivered
+O0527,R009,Ethnic Wear,Anarkali Dress,5,1297,2026-05-01,May,Cancelled
+O0528,R009,Ethnic Wear,Designer Saree,5,1864,2026-05-25,May,Delivered
+O0529,R008,Beauty & Personal Care,Face Wash,2,1495,2026-05-08,May,Delivered
+O0530,R002,Home & Kitchen,Kitchen Organizer,5,1790,2026-05-12,May,Cancelled
+O0531,R006,Ethnic Wear,Cotton Saree,3,1869,2026-05-30,May,Delivered
+O0532,R023,Home & Kitchen,Cookware Set,5,782,2026-05-19,May,Cancelled
+O0533,R016,Kids Wear,Kids Jeans,4,377,2026-05-03,May,Delivered
+O0534,R020,Ethnic Wear,Cotton Saree,4,402,2026-05-11,May,Cancelled
+O0535,R007,Home & Kitchen,Bedsheet Set,2,1525,2026-05-02,May,Delivered
+O0536,R019,Home & Kitchen,Kitchen Organizer,1,2355,2026-05-28,May,Delivered
+O0537,R003,Western Wear,Formal Shirt,4,1700,2026-05-04,May,Delivered
+O0538,R011,Ethnic Wear,Printed Kurta Set,4,2395,2026-05-21,May,Delivered
+O0539,R023,Beauty & Personal Care,Makeup Kit,5,1761,2026-05-12,May,Delivered
+O0540,R019,Home & Kitchen,Wall Decor,3,1406,2026-05-05,May,Delivered
+O0541,R001,Beauty & Personal Care,Body Lotion,4,1892,2026-05-25,May,Pending
+O0542,R002,Ethnic Wear,Anarkali Dress,5,1304,2026-05-21,May,Delivered
+O0543,R016,Ethnic Wear,Festive Lehenga,1,1374,2026-05-12,May,Pending
+O0544,R006,Kids Wear,Kids T-Shirt,3,1214,2026-05-01,May,Delivered
+O0545,R008,Kids Wear,Girls Frock,3,521,2026-05-24,May,Delivered
+O0546,R013,Western Wear,Women Dress,2,1347,2026-05-16,May,Cancelled
+O0547,R012,Kids Wear,Kids T-Shirt,4,1483,2026-05-21,May,Returned
+O0548,R008,Ethnic Wear,Cotton Kurti,1,1607,2026-05-01,May,Delivered
+O0549,R004,Ethnic Wear,Printed Kurta Set,4,1059,2026-05-24,May,Delivered
+O0550,R003,Ethnic Wear,Cotton Saree,4,526,2026-05-14,May,Cancelled
+O0551,R006,Kids Wear,Boys Kurta,2,409,2026-05-04,May,Delivered
+O0552,R007,Western Wear,Oversized T-Shirt,5,1043,2026-05-22,May,Delivered
+O0553,R008,Ethnic Wear,Designer Saree,5,2410,2026-05-05,May,Delivered
+O0554,R001,Western Wear,Crop Top,5,1483,2026-05-07,May,Delivered
+O0555,R007,Ethnic Wear,Anarkali Dress,1,2339,2026-05-28,May,Delivered
+O0556,R013,Western Wear,Formal Shirt,3,686,2026-05-21,May,Delivered
+O0557,R006,Western Wear,Women Dress,3,882,2026-05-15,May,Delivered
+O0558,R015,Western Wear,Casual Top,3,1655,2026-05-02,May,Delivered
+O0559,R023,Kids Wear,Kids T-Shirt,3,1408,2026-05-14,May,Pending
+O0560,R019,Ethnic Wear,Cotton Kurti,4,2114,2026-05-31,May,Delivered
+O0561,R016,Kids Wear,Kids Jeans,4,912,2026-05-03,May,Delivered
+O0562,R023,Ethnic Wear,Cotton Saree,5,1003,2026-05-04,May,Cancelled
+O0563,R015,Ethnic Wear,Printed Kurta Set,2,1189,2026-05-05,May,Delivered
+O0564,R003,Beauty & Personal Care,Hair Serum,2,1834,2026-05-21,May,Delivered
+O0565,R020,Ethnic Wear,Festive Lehenga,1,756,2026-05-13,May,Delivered
+O0566,R018,Ethnic Wear,Anarkali Dress,5,2276,2026-05-30,May,Cancelled
+O0567,R023,Kids Wear,Kids Shorts,4,530,2026-05-14,May,Delivered
+O0568,R019,Kids Wear,Kids T-Shirt,1,1452,2026-05-25,May,Delivered
+O0569,R010,Beauty & Personal Care,Lipstick,4,690,2026-05-13,May,Delivered
+O0570,R019,Kids Wear,Kids T-Shirt,2,864,2026-05-13,May,Delivered
+O0571,R020,Kids Wear,Boys Kurta,1,1110,2026-05-29,May,Cancelled
+O0572,R023,Ethnic Wear,Festive Lehenga,4,1500,2026-05-29,May,Delivered
+O0573,R011,Home & Kitchen,Bedsheet Set,3,1348,2026-05-27,May,Delivered
+O0574,R023,Kids Wear,Kids Jeans,2,915,2026-05-24,May,Delivered
+O0575,R011,Ethnic Wear,Designer Saree,5,765,2026-05-07,May,Delivered
+O0576,R014,Home & Kitchen,Cookware Set,3,430,2026-05-17,May,Returned
+O0577,R003,Ethnic Wear,Cotton Saree,4,955,2026-05-25,May,Cancelled
+O0578,R019,Ethnic Wear,Printed Kurta Set,2,636,2026-05-08,May,Delivered
+O0579,R002,Beauty & Personal Care,Makeup Kit,2,711,2026-05-12,May,Returned
+O0580,R017,Western Wear,Denim Jeans,1,995,2026-05-12,May,Delivered
+O0581,R015,Ethnic Wear,Designer Saree,5,1832,2026-05-12,May,Delivered
+O0582,R009,Home & Kitchen,Cushion Cover Set,1,1367,2026-05-01,May,Delivered
+O0583,R006,Beauty & Personal Care,Moisturizer,2,1475,2026-05-08,May,Delivered
+O0584,R009,Kids Wear,Kids Shorts,1,1697,2026-05-01,May,Delivered
+O0585,R005,Kids Wear,Kids Shorts,1,758,2026-05-09,May,Delivered
+O0586,R010,Home & Kitchen,Cushion Cover Set,3,1935,2026-05-29,May,Delivered
+O0587,R012,Western Wear,Casual Top,4,1118,2026-05-22,May,Delivered
+O0588,R020,Western Wear,Denim Jeans,1,1547,2026-05-22,May,Pending
+O0589,R012,Kids Wear,Kids Shorts,5,878,2026-05-10,May,Delivered
+O0590,R016,Ethnic Wear,Anarkali Dress,3,1534,2026-05-09,May,Delivered
+O0591,R021,Ethnic Wear,Printed Kurta Set,5,1384,2026-05-29,May,Delivered
+O0592,R020,Western Wear,Crop Top,2,1977,2026-05-01,May,Delivered
+O0593,R010,Ethnic Wear,Designer Saree,4,1990,2026-05-24,May,Delivered
+O0594,R023,Beauty & Personal Care,Moisturizer,3,1637,2026-05-23,May,Delivered
+O0595,R018,Kids Wear,Boys Kurta,3,1338,2026-05-10,May,Returned
+O0596,R022,Beauty & Personal Care,Moisturizer,3,349,2026-05-16,May,Delivered
+O0597,R009,Home & Kitchen,Cookware Set,2,2984,2026-05-29,May,Delivered
+O0598,R003,Ethnic Wear,Printed Kurta Set,3,2122,2026-05-26,May,Cancelled
+O0599,R012,Ethnic Wear,Anarkali Dress,4,882,2026-05-16,May,Delivered
+O0600,R021,Kids Wear,Kids Shorts,1,1267,2026-05-29,May,Delivered
+O0601,R004,Beauty & Personal Care,Hair Serum,5,761,2026-06-14,June,Delivered
+O0602,R005,Ethnic Wear,Printed Kurta Set,3,2076,2026-06-19,June,Cancelled
+O0603,R015,Ethnic Wear,Festive Lehenga,2,731,2026-06-16,June,Delivered
+O0604,R006,Western Wear,Denim Jeans,1,1425,2026-06-09,June,Delivered
+O0605,R006,Kids Wear,Kids Jeans,4,480,2026-06-05,June,Delivered
+O0606,R021,Kids Wear,Boys Kurta,4,1085,2026-06-01,June,Delivered
+O0607,R007,Home & Kitchen,Storage Container Set,3,2375,2026-06-07,June,Delivered
+O0608,R001,Home & Kitchen,Kitchen Organizer,2,1610,2026-06-10,June,Delivered
+O0609,R013,Kids Wear,Girls Frock,2,433,2026-06-27,June,Delivered
+O0610,R010,Kids Wear,Kids Shorts,5,1373,2026-06-11,June,Delivered
+O0611,R022,Beauty & Personal Care,Lipstick,4,885,2026-06-25,June,Delivered
+O0612,R013,Ethnic Wear,Printed Kurta Set,2,1265,2026-06-24,June,Delivered
+O0613,R017,Ethnic Wear,Anarkali Dress,1,1936,2026-06-29,June,Delivered
+O0614,R018,Home & Kitchen,Cookware Set,1,2911,2026-06-04,June,Delivered
+O0615,R001,Ethnic Wear,Cotton Kurti,4,2219,2026-06-13,June,Delivered
+O0616,R009,Kids Wear,Kids Jeans,2,1723,2026-06-22,June,Delivered
+O0617,R010,Kids Wear,Kids T-Shirt,5,852,2026-06-20,June,Delivered
+O0618,R005,Kids Wear,Kids T-Shirt,5,1772,2026-06-20,June,Delivered
+O0619,R004,Home & Kitchen,Wall Decor,2,2694,2026-06-07,June,Returned
+O0620,R017,Beauty & Personal Care,Lipstick,4,754,2026-06-06,June,Delivered
+O0621,R016,Beauty & Personal Care,Makeup Kit,4,827,2026-06-08,June,Delivered
+O0622,R022,Ethnic Wear,Cotton Kurti,5,2423,2026-06-05,June,Cancelled
+O0623,R017,Ethnic Wear,Festive Lehenga,1,1448,2026-06-21,June,Delivered
+O0624,R010,Western Wear,Denim Jeans,1,2165,2026-06-06,June,Cancelled
+O0625,R010,Western Wear,Formal Shirt,3,1372,2026-06-24,June,Delivered
+O0626,R002,Ethnic Wear,Printed Kurta Set,2,1746,2026-06-12,June,Cancelled
+O0627,R020,Western Wear,Formal Shirt,1,1263,2026-06-27,June,Delivered
+O0628,R004,Kids Wear,Boys Kurta,3,1089,2026-06-23,June,Cancelled
+O0629,R014,Home & Kitchen,Kitchen Organizer,1,742,2026-06-23,June,Returned
+O0630,R006,Ethnic Wear,Cotton Saree,4,2194,2026-06-06,June,Delivered
+O0631,R012,Home & Kitchen,Cushion Cover Set,2,2178,2026-06-30,June,Delivered
+O0632,R014,Kids Wear,Kids T-Shirt,3,1641,2026-06-11,June,Delivered
+O0633,R022,Kids Wear,Kids Party Dress,5,1782,2026-06-19,June,Delivered
+O0634,R022,Beauty & Personal Care,Body Lotion,5,1559,2026-06-23,June,Delivered
+O0635,R014,Home & Kitchen,Kitchen Organizer,4,1616,2026-06-22,June,Delivered
+O0636,R013,Ethnic Wear,Cotton Saree,5,623,2026-06-01,June,Delivered
+O0637,R006,Kids Wear,Boys Kurta,4,638,2026-06-03,June,Returned
+O0638,R011,Western Wear,Crop Top,1,1538,2026-06-08,June,Delivered
+O0639,R013,Kids Wear,Kids Jeans,1,1240,2026-06-15,June,Returned
+O0640,R015,Ethnic Wear,Designer Saree,4,1694,2026-06-04,June,Pending
+O0641,R021,Ethnic Wear,Designer Saree,4,546,2026-06-18,June,Delivered
+O0642,R003,Home & Kitchen,Cookware Set,3,2282,2026-06-18,June,Delivered
+O0643,R022,Kids Wear,Girls Frock,3,411,2026-06-27,June,Delivered
+O0644,R015,Western Wear,Oversized T-Shirt,5,1468,2026-06-23,June,Delivered
+O0645,R023,Kids Wear,Kids T-Shirt,2,304,2026-06-11,June,Delivered
+O0646,R021,Beauty & Personal Care,Lipstick,5,1219,2026-06-12,June,Returned
+O0647,R002,Beauty & Personal Care,Hair Serum,2,1833,2026-06-23,June,Returned
+O0648,R014,Ethnic Wear,Cotton Saree,2,1168,2026-06-04,June,Cancelled
+O0649,R013,Western Wear,Casual Top,3,720,2026-06-25,June,Delivered
+O0650,R021,Beauty & Personal Care,Body Lotion,1,1731,2026-06-29,June,Delivered
+O0651,R022,Kids Wear,Kids Shorts,2,1321,2026-06-01,June,Delivered
+O0652,R002,Kids Wear,Boys Kurta,5,1289,2026-06-30,June,Delivered
+O0653,R006,Home & Kitchen,Kitchen Organizer,2,624,2026-06-13,June,Delivered
+O0654,R020,Beauty & Personal Care,Body Lotion,4,1007,2026-06-20,June,Cancelled
+O0655,R008,Western Wear,Crop Top,3,1427,2026-06-26,June,Delivered
+O0656,R014,Home & Kitchen,Cushion Cover Set,5,1424,2026-06-27,June,Returned
+O0657,R011,Home & Kitchen,Cookware Set,2,1022,2026-06-07,June,Delivered
+O0658,R010,Home & Kitchen,Cushion Cover Set,2,2862,2026-06-06,June,Delivered
+O0659,R023,Home & Kitchen,Cushion Cover Set,1,1642,2026-06-18,June,Delivered
+O0660,R019,Beauty & Personal Care,Makeup Kit,4,1530,2026-06-24,June,Cancelled
+O0661,R018,Western Wear,Women Dress,1,1570,2026-06-04,June,Delivered
+O0662,R005,Ethnic Wear,Cotton Kurti,2,1493,2026-06-25,June,Returned
+O0663,R010,Home & Kitchen,Kitchen Organizer,1,1408,2026-06-07,June,Returned
+O0664,R002,Western Wear,Women Dress,1,1761,2026-06-28,June,Delivered
+O0665,R018,Beauty & Personal Care,Makeup Kit,5,946,2026-06-08,June,Delivered
+O0666,R023,Western Wear,Formal Shirt,1,1281,2026-06-13,June,Delivered
+O0667,R022,Western Wear,Oversized T-Shirt,1,526,2026-06-24,June,Delivered
+O0668,R020,Beauty & Personal Care,Hair Serum,2,1447,2026-06-23,June,Returned
+O0669,R012,Home & Kitchen,Cookware Set,5,1004,2026-06-25,June,Returned
+O0670,R007,Western Wear,Casual Top,1,882,2026-06-06,June,Returned
+O0671,R004,Western Wear,Women Dress,3,1639,2026-06-09,June,Delivered
+O0672,R019,Beauty & Personal Care,Face Wash,3,1105,2026-06-23,June,Cancelled
+O0673,R002,Ethnic Wear,Anarkali Dress,5,608,2026-06-25,June,Cancelled
+O0674,R020,Beauty & Personal Care,Lipstick,4,1767,2026-06-19,June,Delivered
+O0675,R003,Home & Kitchen,Bedsheet Set,5,1100,2026-06-06,June,Delivered
+O0676,R017,Ethnic Wear,Cotton Saree,5,2052,2026-06-03,June,Delivered
+O0677,R007,Home & Kitchen,Bedsheet Set,3,1402,2026-06-07,June,Pending
+O0678,R020,Kids Wear,Kids Shorts,1,534,2026-06-22,June,Delivered
+O0679,R008,Beauty & Personal Care,Body Lotion,5,649,2026-06-02,June,Delivered
+O0680,R011,Western Wear,Denim Jeans,4,1025,2026-06-18,June,Returned
+O0681,R001,Beauty & Personal Care,Lipstick,5,1794,2026-06-17,June,Delivered
+O0682,R002,Western Wear,Formal Shirt,2,1156,2026-06-17,June,Delivered
+O0683,R004,Ethnic Wear,Cotton Saree,5,430,2026-06-21,June,Delivered
+O0684,R022,Home & Kitchen,Kitchen Organizer,4,625,2026-06-07,June,Delivered
+O0685,R023,Beauty & Personal Care,Makeup Kit,4,1474,2026-06-27,June,Cancelled
+O0686,R022,Ethnic Wear,Designer Saree,3,555,2026-06-03,June,Delivered
+O0687,R006,Home & Kitchen,Cookware Set,1,2555,2026-06-27,June,Delivered
+O0688,R009,Kids Wear,Boys Kurta,4,1186,2026-06-11,June,Delivered
+O0689,R022,Ethnic Wear,Cotton Kurti,5,659,2026-06-25,June,Returned
+O0690,R002,Home & Kitchen,Storage Container Set,3,2259,2026-06-04,June,Delivered
+O0691,R022,Western Wear,Denim Jeans,3,2067,2026-06-30,June,Delivered
+O0692,R013,Beauty & Personal Care,Face Wash,4,470,2026-06-18,June,Delivered
+O0693,R013,Home & Kitchen,Cookware Set,3,2797,2026-06-05,June,Delivered
+O0694,R021,Western Wear,Denim Jeans,5,1636,2026-06-05,June,Delivered
+O0695,R001,Kids Wear,Boys Kurta,5,1421,2026-06-03,June,Delivered
+O0696,R012,Western Wear,Formal Shirt,5,791,2026-06-06,June,Delivered
+O0697,R020,Beauty & Personal Care,Moisturizer,1,521,2026-06-22,June,Returned
+O0698,R002,Beauty & Personal Care,Body Lotion,4,1470,2026-06-18,June,Delivered
+O0699,R022,Ethnic Wear,Cotton Kurti,2,2395,2026-06-11,June,Delivered
+O0700,R022,Home & Kitchen,Storage Container Set,3,2737,2026-06-03,June,Cancelled
+O0701,R011,Kids Wear,Girls Frock,5,1650,2026-06-10,June,Delivered
+O0702,R005,Kids Wear,Girls Frock,3,1177,2026-06-06,June,Delivered
+O0703,R008,Home & Kitchen,Cushion Cover Set,4,1333,2026-06-27,June,Delivered
+O0704,R022,Home & Kitchen,Wall Decor,4,2024,2026-06-12,June,Returned
+O0705,R016,Kids Wear,Kids Jeans,5,467,2026-06-27,June,Delivered
+O0706,R005,Beauty & Personal Care,Moisturizer,3,1652,2026-06-29,June,Delivered
+O0707,R003,Beauty & Personal Care,Body Lotion,1,1814,2026-06-19,June,Delivered
+O0708,R019,Western Wear,Denim Jeans,5,1033,2026-06-18,June,Cancelled
+O0709,R018,Kids Wear,Kids Jeans,3,1103,2026-06-08,June,Cancelled
+O0710,R019,Home & Kitchen,Bedsheet Set,2,2103,2026-06-17,June,Delivered
+O0711,R013,Western Wear,Denim Jeans,2,2151,2026-06-20,June,Delivered
+O0712,R017,Ethnic Wear,Printed Kurta Set,2,998,2026-06-24,June,Returned
+O0713,R012,Ethnic Wear,Designer Saree,2,657,2026-06-09,June,Delivered
+O0714,R002,Home & Kitchen,Cookware Set,3,1789,2026-06-16,June,Cancelled
+O0715,R002,Ethnic Wear,Festive Lehenga,3,822,2026-06-23,June,Pending
+O0716,R021,Beauty & Personal Care,Makeup Kit,3,1335,2026-06-18,June,Delivered
+O0717,R013,Home & Kitchen,Bedsheet Set,5,2876,2026-06-29,June,Returned
+O0718,R017,Western Wear,Casual Top,5,1331,2026-06-12,June,Returned
+O0719,R012,Kids Wear,Boys Kurta,5,313,2026-06-17,June,Cancelled
+O0720,R015,Ethnic Wear,Cotton Kurti,5,1550,2026-06-07,June,Delivered
+O0721,R006,Western Wear,Formal Shirt,1,1853,2026-06-08,June,Delivered
+O0722,R011,Home & Kitchen,Wall Decor,4,2162,2026-06-07,June,Delivered
+O0723,R021,Beauty & Personal Care,Face Wash,2,238,2026-06-05,June,Delivered
+O0724,R006,Ethnic Wear,Cotton Saree,1,1001,2026-06-02,June,Delivered
+O0725,R006,Kids Wear,Boys Kurta,5,1454,2026-06-21,June,Delivered
+O0726,R022,Beauty & Personal Care,Face Wash,2,1069,2026-06-20,June,Pending
+O0727,R016,Ethnic Wear,Designer Saree,5,984,2026-06-26,June,Delivered
+O0728,R006,Home & Kitchen,Cookware Set,3,886,2026-06-24,June,Delivered
+O0729,R015,Kids Wear,Kids T-Shirt,2,1074,2026-06-13,June,Delivered
+O0730,R001,Western Wear,Oversized T-Shirt,4,2192,2026-06-05,June,Delivered
+O0731,R006,Kids Wear,Kids Shorts,5,379,2026-06-29,June,Returned
+O0732,R017,Home & Kitchen,Storage Container Set,4,2900,2026-06-05,June,Cancelled
+O0733,R018,Beauty & Personal Care,Makeup Kit,4,1219,2026-06-14,June,Delivered
+O0734,R002,Home & Kitchen,Wall Decor,2,2174,2026-06-26,June,Returned
+O0735,R012,Kids Wear,Kids Party Dress,5,500,2026-06-14,June,Delivered
+O0736,R016,Home & Kitchen,Storage Container Set,3,2650,2026-06-29,June,Delivered
+O0737,R009,Western Wear,Formal Shirt,1,1683,2026-06-17,June,Delivered
+O0738,R001,Western Wear,Casual Top,3,1337,2026-06-12,June,Delivered
+O0739,R014,Home & Kitchen,Bedsheet Set,3,2395,2026-06-14,June,Delivered
+O0740,R020,Western Wear,Formal Shirt,4,2046,2026-06-07,June,Delivered
+O0741,R018,Kids Wear,Girls Frock,5,1436,2026-06-16,June,Delivered
+O0742,R010,Kids Wear,Kids Party Dress,4,582,2026-06-28,June,Cancelled
+O0743,R004,Home & Kitchen,Wall Decor,2,610,2026-06-07,June,Delivered
+O0744,R011,Home & Kitchen,Cookware Set,1,858,2026-06-13,June,Pending
+O0745,R001,Home & Kitchen,Kitchen Organizer,4,2658,2026-06-14,June,Delivered
+O0746,R009,Western Wear,Denim Jeans,5,577,2026-06-24,June,Delivered
+O0747,R013,Home & Kitchen,Cookware Set,3,2647,2026-06-02,June,Cancelled
+O0748,R006,Home & Kitchen,Wall Decor,1,1026,2026-06-28,June,Delivered
+O0749,R017,Western Wear,Denim Jeans,5,1545,2026-06-17,June,Delivered
+O0750,R020,Ethnic Wear,Cotton Kurti,3,1379,2026-06-21,June,Delivered
+O0751,R006,Ethnic Wear,Anarkali Dress,4,1846,2026-06-22,June,Delivered
+O0752,R019,Western Wear,Denim Jeans,1,684,2026-06-18,June,Delivered
+O0753,R018,Beauty & Personal Care,Lipstick,3,1820,2026-06-09,June,Delivered
+O0754,R007,Kids Wear,Boys Kurta,5,309,2026-06-09,June,Delivered
+O0755,R017,Ethnic Wear,Cotton Kurti,5,1605,2026-06-11,June,Cancelled
+O0756,R017,Beauty & Personal Care,Body Lotion,5,662,2026-06-23,June,Delivered
+O0757,R013,Kids Wear,Kids Jeans,3,1239,2026-06-22,June,Delivered
+O0758,R019,Beauty & Personal Care,Hair Serum,1,678,2026-06-03,June,Delivered
+O0759,R008,Home & Kitchen,Kitchen Organizer,3,1889,2026-06-12,June,Delivered
+O0760,R001,Home & Kitchen,Bedsheet Set,2,1376,2026-06-03,June,Delivered
+O0761,R011,Ethnic Wear,Printed Kurta Set,4,1685,2026-06-12,June,Delivered
+O0762,R019,Western Wear,Formal Shirt,2,1521,2026-06-24,June,Delivered
+O0763,R008,Beauty & Personal Care,Moisturizer,2,565,2026-06-27,June,Delivered
+O0764,R020,Western Wear,Denim Jeans,1,660,2026-06-22,June,Pending
+O0765,R016,Home & Kitchen,Cookware Set,1,2175,2026-06-12,June,Delivered
+O0766,R016,Beauty & Personal Care,Body Lotion,3,1155,2026-06-06,June,Pending
+O0767,R017,Western Wear,Casual Top,5,762,2026-06-02,June,Delivered
+O0768,R014,Kids Wear,Kids Shorts,1,1329,2026-06-12,June,Delivered
+O0769,R022,Home & Kitchen,Wall Decor,1,2322,2026-06-15,June,Delivered
+O0770,R001,Ethnic Wear,Printed Kurta Set,4,812,2026-06-11,June,Delivered
+O0771,R009,Western Wear,Crop Top,2,1051,2026-06-16,June,Pending
+O0772,R011,Western Wear,Women Dress,4,931,2026-06-14,June,Returned
+O0773,R012,Western Wear,Women Dress,3,1423,2026-06-06,June,Delivered
+O0774,R019,Home & Kitchen,Storage Container Set,3,1165,2026-06-18,June,Delivered
+O0775,R013,Western Wear,Formal Shirt,2,1468,2026-06-26,June,Delivered
+O0776,R014,Kids Wear,Kids Party Dress,5,1393,2026-06-24,June,Delivered
+O0777,R016,Western Wear,Oversized T-Shirt,5,597,2026-06-13,June,Delivered
+O0778,R006,Ethnic Wear,Anarkali Dress,4,794,2026-06-15,June,Returned
+O0779,R009,Western Wear,Oversized T-Shirt,5,2158,2026-06-09,June,Delivered
+O0780,R014,Ethnic Wear,Festive Lehenga,5,1214,2026-06-19,June,Delivered
+O0781,R021,Kids Wear,Girls Frock,3,965,2026-06-22,June,Delivered
+O0782,R015,Beauty & Personal Care,Hair Serum,5,736,2026-06-15,June,Delivered
+O0783,R005,Beauty & Personal Care,Makeup Kit,3,1013,2026-06-21,June,Delivered
+O0784,R013,Beauty & Personal Care,Face Wash,1,481,2026-06-11,June,Delivered
+O0785,R011,Home & Kitchen,Cushion Cover Set,3,2679,2026-06-21,June,Delivered
+O0786,R015,Home & Kitchen,Bedsheet Set,5,2333,2026-06-15,June,Delivered
+O0787,R006,Beauty & Personal Care,Moisturizer,2,1505,2026-06-09,June,Cancelled
+O0788,R023,Home & Kitchen,Kitchen Organizer,2,1826,2026-06-04,June,Delivered
+O0789,R016,Kids Wear,Kids T-Shirt,4,1373,2026-06-25,June,Pending
+O0790,R004,Western Wear,Casual Top,1,1841,2026-06-30,June,Cancelled
+O0791,R010,Western Wear,Formal Shirt,3,1407,2026-06-21,June,Delivered
+O0792,R017,Beauty & Personal Care,Face Wash,1,1508,2026-06-12,June,Cancelled
+O0793,R011,Beauty & Personal Care,Hair Serum,5,707,2026-06-18,June,Delivered
+O0794,R023,Kids Wear,Kids Shorts,5,1235,2026-06-21,June,Returned
+O0795,R019,Kids Wear,Kids Party Dress,5,934,2026-06-30,June,Delivered
+O0796,R018,Western Wear,Denim Jeans,4,1130,2026-06-12,June,Delivered
+O0797,R005,Western Wear,Denim Jeans,5,2169,2026-06-25,June,Returned
+O0798,R012,Western Wear,Oversized T-Shirt,1,1908,2026-06-30,June,Delivered
+O0799,R016,Western Wear,Women Dress,3,1722,2026-06-08,June,Returned
+O0800,R018,Western Wear,Women Dress,5,1395,2026-06-13,June,Delivered
+O0801,R023,Home & Kitchen,Wall Decor,4,1103,2026-06-09,June,Delivered
+O0802,R021,Western Wear,Oversized T-Shirt,3,1083,2026-06-21,June,Returned
+O0803,R009,Kids Wear,Kids T-Shirt,2,579,2026-06-10,June,Delivered
+O0804,R015,Home & Kitchen,Bedsheet Set,5,2215,2026-06-07,June,Delivered
+O0805,R005,Ethnic Wear,Cotton Saree,1,1161,2026-06-04,June,Delivered
+O0806,R005,Home & Kitchen,Cushion Cover Set,1,1153,2026-06-03,June,Delivered
+O0807,R016,Western Wear,Women Dress,3,2109,2026-06-26,June,Delivered
+O0808,R012,Kids Wear,Kids T-Shirt,3,464,2026-06-27,June,Returned
+O0809,R005,Ethnic Wear,Designer Saree,1,2325,2026-06-06,June,Delivered
+O0810,R009,Home & Kitchen,Storage Container Set,1,1219,2026-06-13,June,Returned
+O0811,R015,Western Wear,Denim Jeans,2,1443,2026-06-24,June,Returned
+O0812,R017,Home & Kitchen,Kitchen Organizer,4,1793,2026-06-22,June,Pending
+O0813,R011,Ethnic Wear,Festive Lehenga,1,900,2026-06-09,June,Delivered
+O0814,R010,Western Wear,Denim Jeans,2,731,2026-06-08,June,Delivered
+O0815,R011,Ethnic Wear,Anarkali Dress,5,890,2026-06-13,June,Returned
+O0816,R001,Beauty & Personal Care,Body Lotion,4,1559,2026-06-20,June,Delivered
+O0817,R003,Western Wear,Women Dress,1,1904,2026-06-20,June,Delivered
+O0818,R021,Ethnic Wear,Anarkali Dress,2,839,2026-06-05,June,Delivered
+O0819,R011,Beauty & Personal Care,Makeup Kit,3,1799,2026-06-29,June,Delivered
+O0820,R007,Ethnic Wear,Designer Saree,3,951,2026-06-09,June,Cancelled
+O0821,R016,Home & Kitchen,Cookware Set,3,2423,2026-06-23,June,Delivered
+O0822,R019,Western Wear,Crop Top,3,1999,2026-06-15,June,Delivered
+O0823,R020,Beauty & Personal Care,Body Lotion,2,291,2026-06-17,June,Delivered
+O0824,R010,Home & Kitchen,Cookware Set,3,2059,2026-06-01,June,Returned
+O0825,R017,Western Wear,Casual Top,1,1769,2026-06-28,June,Delivered
+O0826,R020,Western Wear,Formal Shirt,1,1848,2026-06-18,June,Returned
+O0827,R007,Kids Wear,Boys Kurta,5,615,2026-06-20,June,Delivered
+O0828,R014,Home & Kitchen,Storage Container Set,1,2343,2026-06-22,June,Delivered
+O0829,R005,Ethnic Wear,Cotton Kurti,2,838,2026-06-16,June,Delivered
+O0830,R002,Kids Wear,Boys Kurta,4,1376,2026-06-20,June,Returned
+O0831,R009,Ethnic Wear,Printed Kurta Set,5,690,2026-06-01,June,Cancelled
+O0832,R007,Home & Kitchen,Storage Container Set,4,2817,2026-06-02,June,Delivered
+O0833,R014,Beauty & Personal Care,Makeup Kit,1,1836,2026-06-20,June,Delivered
+O0834,R002,Home & Kitchen,Bedsheet Set,1,1084,2026-06-17,June,Delivered
+O0835,R008,Kids Wear,Kids Jeans,2,1377,2026-06-22,June,Delivered
+O0836,R021,Beauty & Personal Care,Body Lotion,5,1000,2026-06-24,June,Delivered
+O0837,R021,Kids Wear,Kids Party Dress,4,1738,2026-06-22,June,Delivered
+O0838,R004,Ethnic Wear,Printed Kurta Set,5,2044,2026-06-17,June,Delivered
+O0839,R006,Kids Wear,Kids Shorts,4,1021,2026-06-29,June,Delivered
+O0840,R011,Beauty & Personal Care,Hair Serum,4,1841,2026-06-24,June,Delivered
+O0841,R008,Kids Wear,Kids Jeans,4,1426,2026-06-30,June,Returned
+O0842,R012,Beauty & Personal Care,Hair Serum,4,150,2026-06-24,June,Delivered
+O0843,R010,Kids Wear,Kids Shorts,2,918,2026-06-01,June,Delivered
+O0844,R008,Western Wear,Crop Top,1,2080,2026-06-27,June,Cancelled
+O0845,R009,Beauty & Personal Care,Body Lotion,5,1318,2026-06-30,June,Delivered
+O0846,R004,Ethnic Wear,Anarkali Dress,2,966,2026-06-09,June,Delivered
+O0847,R019,Western Wear,Crop Top,3,688,2026-06-19,June,Delivered
+O0848,R007,Home & Kitchen,Cushion Cover Set,3,2176,2026-06-06,June,Delivered
+O0849,R023,Home & Kitchen,Storage Container Set,5,2830,2026-06-10,June,Delivered
+O0850,R019,Western Wear,Denim Jeans,3,1212,2026-06-29,June,Returned
+O0851,R014,Beauty & Personal Care,Face Wash,2,1681,2026-06-21,June,Returned
+O0852,R001,Home & Kitchen,Cushion Cover Set,4,421,2026-06-10,June,Delivered
+O0853,R011,Kids Wear,Kids Jeans,3,1328,2026-06-23,June,Delivered
+O0854,R002,Home & Kitchen,Wall Decor,4,2637,2026-06-19,June,Delivered
+O0855,R008,Kids Wear,Boys Kurta,2,570,2026-06-11,June,Delivered
+O0856,R019,Home & Kitchen,Cookware Set,4,1275,2026-06-03,June,Delivered
+O0857,R014,Home & Kitchen,Kitchen Organizer,2,2169,2026-06-18,June,Delivered
+O0858,R013,Home & Kitchen,Kitchen Organizer,5,2723,2026-06-24,June,Delivered
+O0859,R008,Ethnic Wear,Designer Saree,3,766,2026-06-04,June,Delivered
+O0860,R014,Western Wear,Casual Top,3,1205,2026-06-20,June,Delivered
+O0861,R010,Ethnic Wear,Anarkali Dress,5,2211,2026-06-20,June,Delivered
+O0862,R002,Beauty & Personal Care,Moisturizer,2,1553,2026-06-12,June,Delivered
+O0863,R003,Ethnic Wear,Cotton Kurti,2,1004,2026-06-28,June,Returned
+O0864,R010,Ethnic Wear,Festive Lehenga,1,1649,2026-06-15,June,Delivered
+O0865,R011,Western Wear,Oversized T-Shirt,2,917,2026-06-18,June,Delivered
+O0866,R009,Kids Wear,Kids Shorts,2,1723,2026-06-23,June,Delivered
+O0867,R013,Kids Wear,Kids Party Dress,5,389,2026-06-09,June,Delivered
+O0868,R010,Western Wear,Formal Shirt,5,1055,2026-06-02,June,Delivered
+O0869,R001,Ethnic Wear,Festive Lehenga,3,1875,2026-06-28,June,Delivered
+O0870,R010,Beauty & Personal Care,Makeup Kit,4,623,2026-06-13,June,Delivered
+O0871,R023,Ethnic Wear,Anarkali Dress,4,760,2026-06-06,June,Delivered
+O0872,R015,Kids Wear,Kids Party Dress,1,381,2026-06-08,June,Cancelled
+O0873,R010,Western Wear,Women Dress,2,537,2026-06-12,June,Delivered
+O0874,R012,Home & Kitchen,Kitchen Organizer,5,1329,2026-06-26,June,Delivered
+O0875,R009,Beauty & Personal Care,Face Wash,5,723,2026-06-08,June,Delivered
+O0876,R013,Home & Kitchen,Storage Container Set,4,2332,2026-06-22,June,Delivered
+O0877,R021,Home & Kitchen,Wall Decor,2,2546,2026-06-05,June,Delivered
+O0878,R010,Beauty & Personal Care,Lipstick,4,1260,2026-06-05,June,Delivered
+O0879,R005,Kids Wear,Kids Party Dress,2,582,2026-06-10,June,Delivered
+O0880,R017,Beauty & Personal Care,Hair Serum,2,1493,2026-06-30,June,Delivered
+O0881,R006,Western Wear,Oversized T-Shirt,5,1973,2026-06-04,June,Delivered
+O0882,R005,Home & Kitchen,Bedsheet Set,4,1884,2026-06-10,June,Delivered
+O0883,R021,Beauty & Personal Care,Lipstick,2,1745,2026-06-07,June,Delivered
+O0884,R006,Ethnic Wear,Cotton Saree,5,1493,2026-06-20,June,Delivered
+O0885,R008,Kids Wear,Kids Jeans,1,1035,2026-06-03,June,Delivered
+O0886,R016,Ethnic Wear,Cotton Saree,4,1931,2026-06-06,June,Cancelled
+O0887,R016,Kids Wear,Kids Jeans,2,763,2026-06-02,June,Delivered
+O0888,R001,Beauty & Personal Care,Hair Serum,2,1670,2026-06-22,June,Pending
+O0889,R007,Ethnic Wear,Designer Saree,5,2406,2026-06-23,June,Delivered
+O0890,R015,Beauty & Personal Care,Hair Serum,4,1739,2026-06-02,June,Delivered
+O0891,R013,Home & Kitchen,Wall Decor,5,2542,2026-06-20,June,Delivered
+O0892,R021,Beauty & Personal Care,Face Wash,5,373,2026-06-15,June,Delivered
+O0893,R002,Beauty & Personal Care,Moisturizer,5,1251,2026-06-13,June,Pending
+O0894,R002,Kids Wear,Kids Shorts,1,688,2026-06-10,June,Delivered
+O0895,R010,Home & Kitchen,Bedsheet Set,4,881,2026-06-14,June,Delivered
+O0896,R002,Home & Kitchen,Kitchen Organizer,4,2846,2026-06-15,June,Delivered
+O0897,R017,Ethnic Wear,Cotton Saree,5,954,2026-06-13,June,Delivered
+O0898,R015,Ethnic Wear,Designer Saree,5,1227,2026-06-29,June,Delivered
+O0899,R009,Western Wear,Formal Shirt,2,1971,2026-06-24,June,Delivered
+O0900,R004,Home & Kitchen,Cushion Cover Set,3,549,2026-06-17,June,Returned

@@ -1,0 +1,184 @@
+[
+  {
+    "alert_type": "CATEGORY_GROWTH",
+    "severity": "HIGH",
+    "period": "May",
+    "entity_type": "category",
+    "entity": "Ethnic Wear",
+    "data": {
+      "current_gmv": 310767.0,
+      "previous_gmv": 218497.0,
+      "change_pct": 42.23,
+      "change_amount": 92270.0,
+      "previous_period": "April"
+    }
+  },
+  {
+    "alert_type": "CATEGORY_DECLINE",
+    "severity": "NORMAL",
+    "period": "May",
+    "entity_type": "category",
+    "entity": "Home & Kitchen",
+    "data": {
+      "current_gmv": 156240.0,
+      "previous_gmv": 192515.0,
+      "change_pct": -18.84,
+      "change_amount": -36275.0,
+      "previous_period": "April"
+    }
+  },
+  {
+    "alert_type": "CATEGORY_GROWTH",
+    "severity": "NORMAL",
+    "period": "June",
+    "entity_type": "category",
+    "entity": "Beauty & Personal Care",
+    "data": {
+      "current_gmv": 155563.0,
+      "previous_gmv": 109054.0,
+      "change_pct": 42.65,
+      "change_amount": 46509.0,
+      "previous_period": "May"
+    }
+  },
+  {
+    "alert_type": "CATEGORY_DECLINE",
+    "severity": "HIGH",
+    "period": "June",
+    "entity_type": "category",
+    "entity": "Ethnic Wear",
+    "data": {
+      "current_gmv": 165715.0,
+      "previous_gmv": 310767.0,
+      "change_pct": -46.68,
+      "change_amount": -145052.0,
+      "previous_period": "May"
+    }
+  },
+  {
+    "alert_type": "CATEGORY_GROWTH",
+    "severity": "HIGH",
+    "period": "June",
+    "entity_type": "category",
+    "entity": "Home & Kitchen",
+    "data": {
+      "current_gmv": 306711.0,
+      "previous_gmv": 156240.0,
+      "change_pct": 96.31,
+      "change_amount": 150471.0,
+      "previous_period": "May"
+    }
+  },
+  {
+    "alert_type": "CATEGORY_GROWTH",
+    "severity": "NORMAL",
+    "period": "June",
+    "entity_type": "category",
+    "entity": "Kids Wear",
+    "data": {
+      "current_gmv": 156823.0,
+      "previous_gmv": 117500.0,
+      "change_pct": 33.47,
+      "change_amount": 39323.0,
+      "previous_period": "May"
+    }
+  },
+  {
+    "alert_type": "CATEGORY_DECLINE",
+    "severity": "NORMAL",
+    "period": "June",
+    "entity_type": "category",
+    "entity": "Western Wear",
+    "data": {
+      "current_gmv": 183505.0,
+      "previous_gmv": 215994.0,
+      "change_pct": -15.04,
+      "change_amount": -32489.0,
+      "previous_period": "May"
+    }
+  },
+  {
+    "alert_type": "RESELLER_INACTIVE",
+    "severity": "NORMAL",
+    "period": "April-June",
+    "entity_type": "reseller",
+    "entity": "R024",
+    "data": {
+      "reseller_name": "Reseller 24",
+      "region": "West",
+      "city": "Ahmedabad",
+      "delivered_orders": 0,
+      "gmv": 0.0
+    }
+  },
+  {
+    "alert_type": "REGION_GROWTH",
+    "severity": "NORMAL",
+    "period": "May",
+    "entity_type": "region",
+    "entity": "East",
+    "data": {
+      "current_gmv": 251739.0,
+      "previous_gmv": 201839.0,
+      "change_pct": 24.72,
+      "change_amount": 49900.0,
+      "previous_period": "April"
+    }
+  },
+  {
+    "alert_type": "REGION_GROWTH",
+    "severity": "HIGH",
+    "period": "May",
+    "entity_type": "region",
+    "entity": "North",
+    "data": {
+      "current_gmv": 239687.0,
+      "previous_gmv": 169759.0,
+      "change_pct": 41.19,
+      "change_amount": 69928.0,
+      "previous_period": "April"
+    }
+  },
+  {
+    "alert_type": "REGION_DECLINE",
+    "severity": "NORMAL",
+    "period": "May",
+    "entity_type": "region",
+    "entity": "South",
+    "data": {
+      "current_gmv": 216173.0,
+      "previous_gmv": 273875.0,
+      "change_pct": -21.07,
+      "change_amount": -57702.0,
+      "previous_period": "April"
+    }
+  },
+  {
+    "alert_type": "REGION_GROWTH",
+    "severity": "NORMAL",
+    "period": "June",
+    "entity_type": "region",
+    "entity": "South",
+    "data": {
+      "current_gmv": 253163.0,
+      "previous_gmv": 216173.0,
+      "change_pct": 17.11,
+      "change_amount": 36990.0,
+      "previous_period": "May"
+    }
+  },
+  {
+    "alert_type": "REGION_DECLINE",
+    "severity": "NORMAL",
+    "period": "June",
+    "entity_type": "region",
+    "entity": "West",
+    "data": {
+      "current_gmv": 170501.0,
+      "previous_gmv": 201956.0,
+      "change_pct": -15.58,
+      "change_amount": -31455.0,
+      "previous_period": "May"
+    }
+  }
+]
